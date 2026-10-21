@@ -43,3 +43,12 @@ The Power BI report includes sales and profit KPIs, category-wise sales, state-w
 
 ## Note
 This project uses a practice dataset for learning and portfolio purposes.
+
+
+### Dashboard Preview
+
+#### Page 1 — Sales Overview
+![Sales Overview Dashboard](dashboard_page1.png)
+
+#### Page 2 — Detailed Sales Analysis
+![Detailed Sales Analysis Dashboard](dashboard_page2.png)
