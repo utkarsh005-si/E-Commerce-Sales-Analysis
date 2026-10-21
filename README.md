@@ -48,7 +48,7 @@ This project uses a practice dataset for learning and portfolio purposes.
 ### Dashboard Preview
 
 #### Page 1 — Sales Overview
-![Sales Overview Dashboard](dashboard_page1.png)
+![Sales Overview Dashboard](E-Commerce-Sales-Analysis/dashboard_page1.png)
 
 #### Page 2 — Detailed Sales Analysis
-![Detailed Sales Analysis Dashboard](dashboard_page2.png)
+![Detailed Sales Analysis Dashboard](E-Commerce-Sales-Analysis/dashboard_page2.png)
