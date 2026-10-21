@@ -1,0 +1,809 @@
+Order_ID,Order_Date,Customer_Name,City,State,Category,Product,Quantity,Unit_Price,Discount_Percent,Payment_Mode,Sales,Profit
+ORD1001,2026-01-21,Rohan Mehta,Kolkata,West Bengal,Accessories,USB-C Cable,5,399,10,Credit Card,1795.5,256.29
+ORD1002,2026-04-10,Ananya Rao,Delhi,Delhi,Furniture,Office Chair,3,6499,10,Debit Card,17547.3,2133.78
+ORD1003,2026-07-11,Simran Kaur,Pune,Maharashtra,Accessories,Laptop Stand,2,1299,15,Net Banking,2208.3,113.06
+ORD1004,2026-02-18,Karan Shah,Bengaluru,Karnataka,Electronics,Power Bank,2,1599,20,Debit Card,2558.4,335.7
+ORD1005,2026-09-01,Vikram Das,Lucknow,Uttar Pradesh,Electronics,Power Bank,4,1599,10,Debit Card,5756.4,1380.63
+ORD1006,2026-03-30,Simran Kaur,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,5,1499,0,Credit Card,7495.0,2890.74
+ORD1007,2026-04-02,Nikhil Reddy,Lucknow,Uttar Pradesh,Stationery,Pen Set,2,199,20,Cash on Delivery,318.4,59.38
+ORD1008,2026-02-19,Ananya Rao,Kolkata,West Bengal,Electronics,Power Bank,5,1599,10,Cash on Delivery,7195.5,799.1
+ORD1009,2026-07-10,Priya Singh,Mumbai,Maharashtra,Bags,Backpack,2,1199,15,Credit Card,2038.3,501.98
+ORD1010,2026-08-01,Aditya Jain,Mumbai,Maharashtra,Lifestyle,Water Bottle,4,499,15,Credit Card,1696.6,479.14
+ORD1011,2026-02-10,Aditya Jain,Chennai,Tamil Nadu,Stationery,Notebook,2,149,0,Net Banking,298.0,100.78
+ORD1012,2026-03-04,Karan Shah,Bengaluru,Karnataka,Stationery,Pen Set,1,199,0,Debit Card,199.0,70.9
+ORD1013,2026-09-18,Pooja Nair,Bengaluru,Karnataka,Stationery,Notebook,3,149,10,Credit Card,402.3,58.25
+ORD1014,2026-02-17,Rohan Mehta,Jaipur,Rajasthan,Electronics,Power Bank,1,1599,15,Net Banking,1359.15,283.35
+ORD1015,2026-04-11,Nikhil Reddy,Delhi,Delhi,Electronics,Power Bank,3,1599,10,Debit Card,4317.3,940.75
+ORD1016,2026-01-15,Pooja Nair,Bengaluru,Karnataka,Accessories,Laptop Stand,2,1299,10,Credit Card,2338.2,480.63
+ORD1017,2026-08-10,Arjun Verma,Delhi,Delhi,Furniture,Office Chair,1,6499,15,Net Banking,5524.15,819.39
+ORD1018,2026-03-07,Pooja Nair,Hyderabad,Telangana,Furniture,Office Chair,3,6499,10,Net Banking,17547.3,5157.57
+ORD1019,2026-05-08,Pooja Nair,Jaipur,Rajasthan,Accessories,Laptop Stand,4,1299,15,Cash on Delivery,4416.6,1049.3
+ORD1020,2026-05-01,Sneha Patel,Jaipur,Rajasthan,Furniture,Office Chair,1,6499,0,Net Banking,6499.0,2273.7
+ORD1021,2026-08-13,Aman Kumar,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,3,1499,0,Credit Card,4497.0,1319.14
+ORD1022,2026-02-21,Simran Kaur,Ahmedabad,Gujarat,Furniture,Desk Lamp,1,1799,15,Credit Card,1529.15,305.83
+ORD1023,2026-07-06,Rahul Sharma,Delhi,Delhi,Electronics,Wireless Mouse,5,599,0,Credit Card,2995.0,540.59
+ORD1024,2026-05-06,Priya Singh,Mumbai,Maharashtra,Electronics,Power Bank,5,1599,0,Net Banking,7995.0,2082.24
+ORD1025,2026-09-12,Neha Gupta,Lucknow,Uttar Pradesh,Bags,Backpack,4,1199,10,Net Banking,4316.4,1048.77
+ORD1026,2026-07-06,Neha Gupta,Hyderabad,Telangana,Electronics,Keyboard,3,899,0,Net Banking,2697.0,989.37
+ORD1027,2026-05-27,Sneha Patel,Delhi,Delhi,Accessories,USB-C Cable,4,399,10,Cash on Delivery,1436.4,401.47
+ORD1028,2026-05-31,Nikhil Reddy,Jaipur,Rajasthan,Electronics,Wireless Mouse,2,599,0,Credit Card,1198.0,301.12
+ORD1029,2026-03-01,Rahul Sharma,Delhi,Delhi,Furniture,Office Chair,4,6499,5,Credit Card,24696.2,3481.46
+ORD1030,2026-01-09,Vikram Das,Bengaluru,Karnataka,Electronics,Power Bank,5,1599,20,Debit Card,6396.0,46.53
+ORD1031,2026-03-16,Rahul Sharma,Delhi,Delhi,Electronics,Bluetooth Speaker,4,1499,0,Cash on Delivery,5996.0,1551.48
+ORD1032,2026-04-09,,Pune,Maharashtra,Stationery,Notebook,4,149,10,Net Banking,536.4,129.99
+ORD1033,2026-06-18,Sneha Patel,Mumbai,Maharashtra,Electronics,Keyboard,2,899,10,UPI,1618.2,281.51
+ORD1034,2026-05-15,Aman Kumar,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,15,,2545.75,507.28
+ORD1035,2026-01-22,Meera Iyer,Bengaluru,Karnataka,Electronics,Power Bank,3,1599,10,Net Banking,4317.3,767.55
+ORD1036,2026-04-07,Simran Kaur,Delhi,Delhi,Bags,Backpack,3,1199,10,UPI,3237.3,450.13
+ORD1037,2026-07-11,Rahul Sharma,Chennai,Tamil Nadu,Electronics,Power Bank,5,1599,10,UPI,7195.5,1392.4
+ORD1038,2026-06-30,Nikhil Reddy,Chennai,Tamil Nadu,Bags,Backpack,3,1199,15,Debit Card,3057.45,887.02
+ORD1039,2026-06-10,Aman Kumar,Bengaluru,Karnataka,Accessories,USB-C Cable,5,399,20,Credit Card,1596.0,315.21
+ORD1040,2026-04-24,Nikhil Reddy,Jaipur,Rajasthan,Lifestyle,Water Bottle,2,499,10,Credit Card,898.2,174.24
+ORD1041,2026-09-03,Rohan Mehta,Lucknow,Uttar Pradesh,Electronics,Keyboard,2,899,0,Net Banking,1798.0,383.5
+ORD1042,2026-01-13,Simran Kaur,Lucknow,Uttar Pradesh,Furniture,Office Chair,2,6499,10,Credit Card,11698.2,3166.76
+ORD1043,2026-09-21,Meera Iyer,Kolkata,West Bengal,Stationery,Pen Set,4,199,20,Cash on Delivery,636.8,125.18
+ORD1044,2026-08-03,Nikhil Reddy,Delhi,Delhi,Furniture,Office Chair,4,6499,5,Debit Card,24696.2,8561.11
+ORD1045,2026-06-29,Pooja Nair,Jaipur,Rajasthan,Lifestyle,Water Bottle,5,499,5,Debit Card,2370.25,400.97
+ORD1046,2026-01-05,Rohan Mehta,Chennai,Tamil Nadu,Electronics,Wireless Mouse,5,599,15,Cash on Delivery,2545.75,606.55
+ORD1047,2026-05-04,Pooja Nair,Pune,Maharashtra,Accessories,USB-C Cable,3,399,15,Debit Card,1017.45,264.29
+ORD1048,2026-08-17,Pooja Nair,Bengaluru,Karnataka,Stationery,Notebook,3,149,15,Net Banking,379.95,38.58
+ORD1049,2026-05-02,Rahul Sharma,Kolkata,West Bengal,Stationery,Pen Set,4,199,20,Credit Card,636.8,149.01
+ORD1050,2026-07-08,Rohan Mehta,Pune,Maharashtra,Stationery,Pen Set,5,199,20,Net Banking,796.0,59.28
+ORD1051,2026-03-27,Vikram Das,Pune,Maharashtra,Furniture,Office Chair,3,6499,15,Net Banking,16572.45,2446.32
+ORD1052,2026-08-06,Pooja Nair,Chennai,Tamil Nadu,Electronics,Wireless Mouse,4,599,20,Net Banking,1916.8,229.25
+ORD1053,2026-01-10,Neha Gupta,Kolkata,West Bengal,Accessories,USB-C Cable,1,399,20,Net Banking,319.2,44.82
+ORD1054,2026-04-06,Rahul Sharma,Hyderabad,Telangana,Electronics,Keyboard,4,899,5,Net Banking,3416.2,763.47
+ORD1055,2026-06-09,Karan Shah,Hyderabad,Telangana,Stationery,Notebook,2,149,0,Cash on Delivery,298.0,62.35
+ORD1056,2026-06-28,Karan Shah,Ahmedabad,Gujarat,Electronics,Power Bank,2,1599,10,Net Banking,2878.2,506.81
+ORD1057,2026-01-12,Nikhil Reddy,Delhi,Delhi,Electronics,Wireless Mouse,1,599,5,Credit Card,569.05,182.41
+ORD1058,2026-04-03,Pooja Nair,Delhi,Delhi,Electronics,Keyboard,3,899,0,Credit Card,2697.0,689.73
+ORD1059,2026-04-24,Aditya Jain,Lucknow,Uttar Pradesh,Electronics,Keyboard,3,899,0,Debit Card,2697.0,784.48
+ORD1060,2026-06-13,Pooja Nair,,Gujarat,Accessories,USB-C Cable,1,399,20,Net Banking,319.2,-5.13
+ORD1061,2026-02-05,Priya Singh,Jaipur,Rajasthan,Stationery,Notebook,3,149,0,UPI,447.0,106.85
+ORD1062,2026-01-13,Rohan Mehta,Kolkata,West Bengal,Stationery,Notebook,5,149,15,UPI,633.25,115.94
+ORD1063,2026-08-05,Neha Gupta,Delhi,Delhi,Stationery,Pen Set,1,199,0,Net Banking,199.0,57.48
+ORD1064,2026-03-17,Vikram Das,Delhi,Delhi,Electronics,Wireless Mouse,4,599,15,Cash on Delivery,2036.6,93.73
+ORD1065,2026-01-25,Sneha Patel,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2,1499,20,Debit Card,2398.4,539.12
+ORD1066,2026-06-30,Pooja Nair,Chennai,Tamil Nadu,Accessories,USB-C Cable,5,399,0,Credit Card,1995.0,748.2
+ORD1067,2026-08-23,Karan Shah,Kolkata,West Bengal,Lifestyle,Water Bottle,5,499,10,Credit Card,2245.5,261.24
+ORD1068,2026-08-18,Rohan Mehta,Jaipur,Rajasthan,Lifestyle,Water Bottle,2,499,15,Net Banking,848.3,59.17
+ORD1069,2026-07-13,Arjun Verma,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,5,Net Banking,474.05,76.74
+ORD1070,2026-05-25,Nikhil Reddy,Chennai,Tamil Nadu,Bags,Backpack,3,1199,20,UPI,2877.6,426.1
+ORD1071,2026-07-01,Rohan Mehta,Hyderabad,Telangana,Accessories,USB-C Cable,4,399,10,Debit Card,1436.4,205.93
+ORD1072,2026-08-30,Simran Kaur,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,3,499,10,Credit Card,1347.3,365.55
+ORD1073,2026-07-09,Vikram Das,Hyderabad,Telangana,Electronics,Power Bank,5,1599,0,Cash on Delivery,7995.0,1889.01
+ORD1074,2026-02-13,Aditya Jain,Bengaluru,Karnataka,Stationery,Pen Set,1,199,20,Net Banking,159.2,-2.37
+ORD1075,2026-06-13,Aman Kumar,Chennai,Tamil Nadu,Bags,Backpack,5,1199,10,Debit Card,5395.5,586.28
+ORD1076,2026-05-23,Nikhil Reddy,Hyderabad,Telangana,Stationery,Pen Set,2,199,0,UPI,398.0,140.22
+ORD1077,2026-08-12,Ananya Rao,Chennai,Tamil Nadu,Bags,Backpack,3,1199,0,Cash on Delivery,3597.0,714.52
+ORD1078,2026-03-31,Ananya Rao,Ahmedabad,Gujarat,Electronics,Power Bank,5,1599,5,Credit Card,7595.25,2467.36
+ORD1079,2026-07-11,Karan Shah,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,20,UPI,5116.8,-91.89
+ORD1080,2026-08-28,Aditya Jain,Jaipur,Rajasthan,Electronics,Wireless Mouse,5,599,15,Net Banking,2545.75,351.58
+ORD1081,2026-01-10,Ananya Rao,Delhi,Delhi,Bags,Backpack,2,1199,10,Credit Card,2158.2,336.54
+ORD1082,2026-08-27,Rahul Sharma,Chennai,Tamil Nadu,Furniture,Office Chair,1,6499,0,Debit Card,6499.0,1912.78
+ORD1083,2026-04-08,Vikram Das,Chennai,Tamil Nadu,Lifestyle,Water Bottle,1,499,10,Debit Card,449.1,57.25
+ORD1084,2026-05-13,Neha Gupta,Bengaluru,Karnataka,Accessories,Laptop Stand,4,1299,0,Debit Card,5196.0,1467.58
+ORD1085,2026-03-24,Rahul Sharma,Chennai,Tamil Nadu,Furniture,Office Chair,5,6499,20,Net Banking,25996.0,-255.04
+ORD1086,2026-02-03,Simran Kaur,Jaipur,Rajasthan,Electronics,Wireless Mouse,3,599,20,Credit Card,1437.6,119.75
+ORD1087,2026-02-23,Simran Kaur,Lucknow,Uttar Pradesh,Electronics,Keyboard,3,899,10,Net Banking,2427.3,626.48
+ORD1088,2026-03-16,Aman Kumar,Jaipur,Rajasthan,Electronics,Wireless Mouse,5,599,20,Cash on Delivery,2396.0,177.72
+ORD1089,2026-09-06,Neha Gupta,Mumbai,Maharashtra,Bags,Backpack,2,1199,5,UPI,2278.1,503.43
+ORD1090,2026-05-18,Ananya Rao,Ahmedabad,Gujarat,Electronics,Power Bank,2,1599,10,UPI,2878.2,468.57
+ORD1091,2026-02-03,Neha Gupta,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,4,599,15,Net Banking,2036.6,356.98
+ORD1092,2026-09-06,Rohan Mehta,Mumbai,Maharashtra,Furniture,Desk Lamp,3,1799,10,Debit Card,4857.3,1529.02
+ORD1093,2026-07-14,Aman Kumar,Pune,Maharashtra,Stationery,Notebook,4,149,15,Debit Card,506.6,103.68
+ORD1094,2026-04-02,Pooja Nair,Mumbai,Maharashtra,Lifestyle,Water Bottle,3,499,10,Net Banking,1347.3,178.45
+ORD1095,2026-02-15,Priya Singh,Pune,Maharashtra,Accessories,Laptop Stand,1,1299,20,UPI,1039.2,128.12
+ORD1096,2026-05-01,Neha Gupta,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,1,1799,5,Debit Card,1709.05,313.26
+ORD1097,2026-09-10,Sneha Patel,Bengaluru,Karnataka,Lifestyle,Water Bottle,4,499,0,Credit Card,1996.0,761.29
+ORD1098,2026-07-06,Ananya Rao,Kolkata,West Bengal,Stationery,Notebook,2,149,20,Debit Card,238.4,55.51
+ORD1099,2026-08-15,Aman Kumar,Kolkata,West Bengal,Electronics,Bluetooth Speaker,3,1499,15,UPI,3822.45,1018.22
+ORD1100,2026-09-30,Rohan Mehta,Kolkata,West Bengal,Accessories,Laptop Stand,4,1299,5,Credit Card,4936.2,1173.92
+ORD1101,2026-03-08,Vikram Das,Jaipur,Rajasthan,Electronics,Wireless Mouse,5,599,15,Net Banking,2545.75,436.45
+ORD1102,2026-02-11,Vikram Das,Mumbai,Maharashtra,Accessories,USB-C Cable,2,399,0,Net Banking,798.0,220.1
+ORD1103,2026-08-17,Vikram Das,Pune,Maharashtra,Accessories,USB-C Cable,2,399,5,UPI,758.1,236.4
+ORD1104,2026-04-05,Ananya Rao,Chennai,Tamil Nadu,Bags,Backpack,5,1199,15,UPI,5095.75,376.61
+ORD1105,2026-08-11,Neha Gupta,Kolkata,West Bengal,Electronics,Bluetooth Speaker,3,1499,20,Credit Card,3597.6,-72.51
+ORD1106,2026-04-28,Rahul Sharma,Hyderabad,Telangana,Electronics,Power Bank,3,1599,15,Debit Card,4077.45,1193.66
+ORD1107,2026-05-13,Neha Gupta,Jaipur,Rajasthan,Electronics,Keyboard,3,899,5,Credit Card,2562.15,777.83
+ORD1108,2026-04-23,Simran Kaur,Pune,Maharashtra,Accessories,USB-C Cable,3,399,15,UPI,1017.45,165.58
+ORD1109,2026-09-16,Rahul Sharma,Lucknow,Uttar Pradesh,Bags,Backpack,5,1199,10,Credit Card,5395.5,569.27
+ORD1110,2026-01-13,Ananya Rao,Ahmedabad,Gujarat,Lifestyle,Water Bottle,5,499,5,Credit Card,2370.25,329.86
+ORD1111,2026-02-07,Rohan Mehta,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,0,Debit Card,2995.0,697.09
+ORD1112,2026-05-17,Priya Singh,Bengaluru,Karnataka,Accessories,Laptop Stand,4,1299,15,Cash on Delivery,4416.6,832.01
+ORD1113,2026-09-24,Vikram Das,Delhi,Delhi,Electronics,Bluetooth Speaker,1,1499,15,Net Banking,1274.15,97.13
+ORD1114,2026-03-19,Pooja Nair,Delhi,Delhi,Accessories,Laptop Stand,5,1299,20,Cash on Delivery,5196.0,962.22
+ORD1115,2026-04-14,Meera Iyer,Jaipur,Rajasthan,Lifestyle,Water Bottle,1,499,5,Debit Card,474.05,85.0
+ORD1116,2026-04-14,Ananya Rao,Pune,Maharashtra,Electronics,Wireless Mouse,1,599,0,Debit Card,599.0,192.77
+ORD1117,2026-01-15,Nikhil Reddy,Kolkata,West Bengal,Electronics,Bluetooth Speaker,3,1499,10,Net Banking,4047.3,1017.76
+ORD1118,2026-04-07,Aditya Jain,Bengaluru,Karnataka,Accessories,USB-C Cable,3,399,15,Net Banking,1017.45,36.52
+ORD1119,2026-05-03,Pooja Nair,Kolkata,West Bengal,Electronics,Wireless Mouse,4,599,5,UPI,2276.2,436.69
+ORD1120,2026-07-03,Nikhil Reddy,Pune,Maharashtra,Bags,Backpack,5,1199,15,Net Banking,5095.75,896.01
+ORD1121,2026-05-10,Karan Shah,Ahmedabad,Gujarat,Accessories,Laptop Stand,5,1299,15,Debit Card,5520.75,591.72
+ORD1122,2026-03-10,Sneha Patel,Delhi,Delhi,Accessories,USB-C Cable,4,399,5,Debit Card,1516.2,470.19
+ORD1123,2026-05-21,Ananya Rao,Lucknow,Uttar Pradesh,Stationery,Notebook,2,149,10,Credit Card,268.2,79.35
+ORD1124,2026-05-13,Ananya Rao,Jaipur,Rajasthan,Electronics,Wireless Mouse,4,599,10,Net Banking,2156.4,227.46
+ORD1125,2026-02-20,Aditya Jain,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,15,UPI,424.15,83.64
+ORD1126,2026-04-20,Sneha Patel,Pune,Maharashtra,Furniture,Desk Lamp,1,1799,20,UPI,1439.2,-29.98
+ORD1127,2026-05-17,Pooja Nair,Bengaluru,Karnataka,Bags,Backpack,3,1199,20,Cash on Delivery,2877.6,419.24
+ORD1128,2026-09-01,Vikram Das,Jaipur,Rajasthan,Accessories,Laptop Stand,2,1299,0,Credit Card,2598.0,973.89
+ORD1129,2026-01-17,Karan Shah,Pune,Maharashtra,Electronics,Keyboard,2,899,10,Debit Card,1618.2,247.67
+ORD1130,2026-06-10,Rahul Sharma,Delhi,Delhi,Bags,Backpack,1,1199,15,Net Banking,1019.15,189.25
+ORD1131,2026-03-25,Vikram Das,Pune,Maharashtra,Lifestyle,Water Bottle,4,499,5,UPI,1896.2,407.23
+ORD1132,2026-09-14,Aditya Jain,Hyderabad,Telangana,Bags,Backpack,4,1199,20,Debit Card,3836.8,764.57
+ORD1133,2026-05-24,Ananya Rao,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,5,1499,0,Debit Card,7495.0,2937.73
+ORD1134,2026-04-23,Priya Singh,Mumbai,Maharashtra,Electronics,Wireless Mouse,3,599,5,Debit Card,1707.15,421.64
+ORD1135,2026-06-11,Simran Kaur,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,10,UPI,2695.5,652.53
+ORD1136,2026-01-08,Rahul Sharma,Kolkata,West Bengal,Furniture,Office Chair,4,6499,5,UPI,24696.2,4140.16
+ORD1137,2026-09-06,Nikhil Reddy,Kolkata,West Bengal,Electronics,Bluetooth Speaker,3,1499,20,Net Banking,3597.6,310.69
+ORD1138,2026-04-06,Ananya Rao,Delhi,Delhi,Electronics,Bluetooth Speaker,1,1499,15,Debit Card,1274.15,296.2
+ORD1139,2026-01-07,Pooja Nair,Hyderabad,Telangana,Accessories,USB-C Cable,5,399,20,UPI,1596.0,220.63
+ORD1140,2026-07-07,Priya Singh,Kolkata,West Bengal,Accessories,Laptop Stand,3,1299,20,Credit Card,3117.6,27.99
+ORD1141,2026-07-14,Rohan Mehta,Bengaluru,Karnataka,Accessories,Laptop Stand,4,1299,10,Cash on Delivery,4676.4,1262.25
+ORD1142,2026-03-22,Pooja Nair,Hyderabad,Telangana,Accessories,Laptop Stand,5,1299,0,Debit Card,6495.0,1974.82
+ORD1143,2026-01-09,Ananya Rao,Kolkata,West Bengal,Electronics,Wireless Mouse,2,599,10,Credit Card,1078.2,224.34
+ORD1144,2026-06-03,Pooja Nair,Jaipur,Rajasthan,Furniture,Office Chair,1,6499,10,Net Banking,5849.1,1346.76
+ORD1145,2026-05-08,Arjun Verma,Mumbai,Maharashtra,Furniture,Office Chair,5,6499,10,Credit Card,29245.5,3867.93
+ORD1146,2026-03-17,Rohan Mehta,Hyderabad,Telangana,Stationery,Pen Set,2,199,0,Net Banking,398.0,123.72
+ORD1147,2026-05-14,Karan Shah,Lucknow,Uttar Pradesh,Bags,Backpack,5,1199,10,Credit Card,5395.5,611.47
+ORD1148,2026-07-09,Pooja Nair,Jaipur,Rajasthan,Accessories,Laptop Stand,2,1299,20,Credit Card,2078.4,40.57
+ORD1149,2026-01-29,,Pune,Maharashtra,Furniture,Desk Lamp,1,1799,10,Debit Card,1619.1,503.95
+ORD1150,2026-08-20,Aman Kumar,Ahmedabad,Gujarat,Furniture,Desk Lamp,4,1799,0,Credit Card,7196.0,1736.13
+ORD1151,2026-08-27,Sneha Patel,Kolkata,West Bengal,Stationery,Notebook,5,149,0,Debit Card,745.0,253.76
+ORD1152,2026-07-20,Pooja Nair,Delhi,Delhi,Accessories,USB-C Cable,3,399,0,Credit Card,1197.0,348.09
+ORD1153,2026-03-02,Karan Shah,Chennai,Tamil Nadu,Stationery,Pen Set,1,199,0,Credit Card,199.0,61.53
+ORD1154,2026-04-18,Simran Kaur,Jaipur,Rajasthan,Furniture,Office Chair,3,6499,10,Debit Card,17547.3,5515.54
+ORD1155,2026-01-17,Pooja Nair,Pune,Maharashtra,Electronics,Keyboard,4,899,10,UPI,3236.4,829.92
+ORD1156,2026-05-29,Rahul Sharma,Kolkata,West Bengal,Electronics,Wireless Mouse,4,599,10,Net Banking,2156.4,332.83
+ORD1157,2026-05-23,Karan Shah,Pune,Maharashtra,Bags,Backpack,1,1199,5,Credit Card,1139.05,290.55
+ORD1158,2026-03-27,Pooja Nair,Jaipur,Rajasthan,Lifestyle,Water Bottle,2,499,0,Net Banking,998.0,359.55
+ORD1159,2026-03-23,Nikhil Reddy,Kolkata,West Bengal,Stationery,Pen Set,3,199,5,Cash on Delivery,567.15,153.56
+ORD1160,2026-09-30,Meera Iyer,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2,1499,10,Debit Card,2698.2,352.68
+ORD1161,2026-07-02,Rohan Mehta,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,5,1499,10,Cash on Delivery,6745.5,1688.08
+ORD1162,2026-07-29,Rahul Sharma,Kolkata,West Bengal,Stationery,Notebook,1,149,15,Net Banking,126.65,11.33
+ORD1163,2026-09-08,Rohan Mehta,Lucknow,Uttar Pradesh,Electronics,Power Bank,2,1599,10,Net Banking,2878.2,347.23
+ORD1164,2026-09-02,Simran Kaur,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,3,1499,15,UPI,3822.45,1072.13
+ORD1165,2026-03-06,Meera Iyer,Ahmedabad,Gujarat,Electronics,Power Bank,1,1599,5,UPI,1519.05,527.39
+ORD1166,2026-06-02,Rahul Sharma,Delhi,Delhi,Stationery,Notebook,2,149,15,Net Banking,253.3,27.59
+ORD1167,2026-03-02,Arjun Verma,Jaipur,Rajasthan,Electronics,Wireless Mouse,1,599,15,Debit Card,509.15,120.99
+ORD1168,2026-07-18,Sneha Patel,Pune,Maharashtra,Furniture,Office Chair,3,6499,20,Cash on Delivery,15597.6,-343.55
+ORD1169,2026-04-17,Priya Singh,Ahmedabad,Gujarat,Accessories,USB-C Cable,5,399,20,UPI,1596.0,34.43
+ORD1170,2026-09-19,Arjun Verma,Lucknow,Uttar Pradesh,Stationery,Pen Set,1,199,5,Net Banking,189.05,35.52
+ORD1171,2026-08-29,Aditya Jain,Pune,Maharashtra,Furniture,Office Chair,1,6499,0,Debit Card,6499.0,1273.12
+ORD1172,2026-08-04,Aman Kumar,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,1499,5,Debit Card,2848.1,590.23
+ORD1173,2026-04-08,Karan Shah,Pune,Maharashtra,Stationery,Notebook,5,149,0,UPI,745.0,200.82
+ORD1174,2026-07-14,Vikram Das,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,3,1499,15,Credit Card,3822.45,652.65
+ORD1175,2026-08-14,Ananya Rao,Lucknow,Uttar Pradesh,Stationery,Pen Set,1,199,20,Cash on Delivery,159.2,7.61
+ORD1176,2026-02-06,Simran Kaur,Pune,Maharashtra,Stationery,Notebook,3,149,20,Net Banking,357.6,84.6
+ORD1177,2026-04-25,Pooja Nair,Chennai,Tamil Nadu,Electronics,Wireless Mouse,2,599,20,Debit Card,958.4,112.94
+ORD1178,2026-09-19,Ananya Rao,Ahmedabad,Gujarat,Stationery,Notebook,2,149,10,Debit Card,268.2,32.72
+ORD1179,2026-06-18,Aditya Jain,Ahmedabad,Gujarat,Electronics,Power Bank,1,1599,10,Debit Card,1439.1,174.6
+ORD1180,2026-07-07,Rohan Mehta,Jaipur,Rajasthan,Accessories,Laptop Stand,2,1299,15,Net Banking,2208.3,295.93
+ORD1181,2026-06-07,Rohan Mehta,Lucknow,Uttar Pradesh,Stationery,Pen Set,3,199,5,Credit Card,567.15,192.02
+ORD1182,2026-08-12,Aditya Jain,Hyderabad,Telangana,Electronics,Keyboard,5,899,20,Debit Card,3596.0,643.18
+ORD1183,2026-06-12,Neha Gupta,Bengaluru,Karnataka,Stationery,Pen Set,1,199,5,Debit Card,189.05,41.89
+ORD1184,2026-03-01,Nikhil Reddy,Kolkata,West Bengal,Lifestyle,Water Bottle,1,499,5,Net Banking,474.05,137.12
+ORD1185,2026-08-07,Rahul Sharma,Pune,Maharashtra,Accessories,USB-C Cable,4,399,15,Cash on Delivery,1356.6,375.18
+ORD1186,2026-04-30,Karan Shah,Pune,Maharashtra,Electronics,Wireless Mouse,2,599,0,Credit Card,1198.0,463.93
+ORD1187,2026-01-07,Aditya Jain,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,10,Debit Card,5756.4,1735.75
+ORD1188,2026-01-26,Priya Singh,Bengaluru,Karnataka,Bags,Backpack,3,1199,10,Credit Card,3237.3,538.38
+ORD1189,2026-09-28,Rohan Mehta,Hyderabad,Telangana,Electronics,Wireless Mouse,3,599,20,Net Banking,1437.6,21.7
+ORD1190,2026-08-24,Ananya Rao,Hyderabad,Telangana,Electronics,Keyboard,4,899,10,Cash on Delivery,3236.4,862.62
+ORD1191,2026-09-14,Pooja Nair,Chennai,Tamil Nadu,Accessories,Laptop Stand,3,1299,15,Cash on Delivery,3312.45,633.38
+ORD1192,2026-01-12,Priya Singh,Pune,Maharashtra,Electronics,Keyboard,5,899,10,Cash on Delivery,4045.5,1317.71
+ORD1193,2026-01-08,Nikhil Reddy,Ahmedabad,Gujarat,Electronics,Power Bank,1,1599,0,Debit Card,1599.0,607.53
+ORD1194,2026-06-30,Ananya Rao,Mumbai,Maharashtra,Accessories,USB-C Cable,3,399,20,Cash on Delivery,957.6,204.84
+ORD1195,2026-09-30,Meera Iyer,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,4,1499,0,Cash on Delivery,5996.0,2396.78
+ORD1196,2026-08-02,Neha Gupta,Hyderabad,Telangana,Accessories,USB-C Cable,1,399,0,Net Banking,399.0,145.48
+ORD1197,2026-04-05,Neha Gupta,Chennai,Tamil Nadu,Electronics,Keyboard,3,899,20,Debit Card,2157.6,450.65
+ORD1198,2026-08-02,Aman Kumar,Jaipur,Rajasthan,Electronics,Wireless Mouse,4,599,0,UPI,2396.0,937.52
+ORD1199,2026-07-21,Ananya Rao,Bengaluru,Karnataka,Electronics,Power Bank,1,1599,15,Credit Card,1359.15,152.64
+ORD1200,2026-03-18,Sneha Patel,Bengaluru,Karnataka,Electronics,Keyboard,1,899,0,Credit Card,899.0,185.05
+ORD1201,2026-05-23,Priya Singh,Pune,Maharashtra,Furniture,Office Chair,2,6499,5,Credit Card,12348.1,2577.73
+ORD1202,2026-05-03,Neha Gupta,Kolkata,West Bengal,Electronics,Power Bank,1,1599,10,UPI,1439.1,436.0
+ORD1203,2026-06-27,Simran Kaur,Pune,Maharashtra,Stationery,Pen Set,1,199,5,Cash on Delivery,189.05,28.71
+ORD1204,2026-01-22,Pooja Nair,Kolkata,West Bengal,Furniture,Desk Lamp,4,1799,15,Debit Card,6116.6,853.12
+ORD1205,2026-01-12,Rohan Mehta,Jaipur,Rajasthan,Electronics,Power Bank,2,1599,10,Cash on Delivery,2878.2,449.44
+ORD1206,2026-06-22,Ananya Rao,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2,1499,10,Net Banking,2698.2,255.76
+ORD1207,2026-07-30,Neha Gupta,Kolkata,West Bengal,Accessories,Laptop Stand,3,1299,15,Net Banking,3312.45,498.11
+ORD1208,2026-08-31,Aman Kumar,Ahmedabad,Gujarat,Stationery,Pen Set,3,199,10,Net Banking,537.3,168.39
+ORD1209,2026-06-08,Pooja Nair,Pune,Maharashtra,Electronics,Wireless Mouse,4,599,0,Net Banking,2396.0,500.72
+ORD1210,2026-01-20,Simran Kaur,Ahmedabad,Gujarat,Accessories,USB-C Cable,5,399,15,Credit Card,1695.75,176.0
+ORD1211,2026-08-16,Priya Singh,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,1,1499,15,Credit Card,1274.15,365.06
+ORD1212,2026-09-03,Aditya Jain,Hyderabad,Telangana,Bags,Backpack,2,1199,10,Cash on Delivery,2158.2,406.9
+ORD1213,2026-01-08,Sneha Patel,Delhi,Delhi,Electronics,Keyboard,5,899,0,Credit Card,4495.0,1667.89
+ORD1214,2026-02-10,Meera Iyer,Mumbai,Maharashtra,Furniture,Office Chair,5,6499,20,Cash on Delivery,25996.0,6004.78
+ORD1215,2026-05-25,Karan Shah,Ahmedabad,Gujarat,Furniture,Office Chair,1,6499,15,UPI,5524.15,776.96
+ORD1216,2026-06-13,Aditya Jain,Jaipur,Rajasthan,Electronics,Power Bank,2,1599,10,Debit Card,2878.2,497.35
+ORD1217,2026-09-14,Arjun Verma,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,1499,20,Cash on Delivery,2398.4,377.33
+ORD1218,2026-05-01,Karan Shah,Ahmedabad,Gujarat,Furniture,Desk Lamp,4,1799,0,Net Banking,7196.0,2478.62
+ORD1219,2026-02-13,Ananya Rao,Chennai,Tamil Nadu,Electronics,Power Bank,5,1599,0,Cash on Delivery,7995.0,1713.19
+ORD1220,2026-05-10,Vikram Das,Pune,Maharashtra,Electronics,Power Bank,3,1599,20,Net Banking,3837.6,923.32
+ORD1221,2026-07-17,Arjun Verma,Hyderabad,Telangana,Lifestyle,Water Bottle,5,499,0,Net Banking,2495.0,930.97
+ORD1222,2026-06-30,Priya Singh,Chennai,Tamil Nadu,Electronics,Wireless Mouse,1,599,10,Debit Card,539.1,174.22
+ORD1223,2026-08-11,Ananya Rao,Mumbai,Maharashtra,Stationery,Pen Set,2,199,20,Debit Card,318.4,3.61
+ORD1224,2026-05-06,Aditya Jain,Mumbai,Maharashtra,Furniture,Office Chair,4,6499,15,Cash on Delivery,22096.6,5779.87
+ORD1225,2026-09-21,Aditya Jain,Mumbai,Maharashtra,Lifestyle,Water Bottle,4,499,5,Net Banking,1896.2,615.89
+ORD1226,2026-04-24,Priya Singh,Pune,Maharashtra,Electronics,Keyboard,1,899,5,UPI,854.05,240.62
+ORD1227,2026-01-01,Aman Kumar,Lucknow,Uttar Pradesh,Stationery,Notebook,1,149,15,Net Banking,126.65,33.54
+ORD1228,2026-07-11,Neha Gupta,Chennai,Tamil Nadu,Stationery,Pen Set,2,199,15,UPI,338.3,85.55
+ORD1229,2026-03-18,Nikhil Reddy,Bengaluru,Karnataka,Stationery,Pen Set,1,199,20,UPI,159.2,5.55
+ORD1230,2026-03-23,Aditya Jain,Hyderabad,Telangana,Electronics,Keyboard,5,899,15,UPI,3820.75,463.57
+ORD1231,2026-03-30,Arjun Verma,Kolkata,West Bengal,Electronics,Bluetooth Speaker,5,1499,10,UPI,6745.5,1629.05
+ORD1232,2026-08-12,Rahul Sharma,Lucknow,Uttar Pradesh,Furniture,Office Chair,5,6499,10,Debit Card,29245.5,6970.74
+ORD1233,2026-09-22,Aman Kumar,Pune,Maharashtra,Lifestyle,Water Bottle,3,499,10,Net Banking,1347.3,393.62
+ORD1234,2026-06-03,Vikram Das,Lucknow,Uttar Pradesh,Stationery,Notebook,2,149,15,Cash on Delivery,253.3,72.82
+ORD1235,2026-02-12,Rohan Mehta,Chennai,Tamil Nadu,Electronics,Keyboard,5,899,15,Credit Card,3820.75,652.35
+ORD1236,2026-07-22,Aman Kumar,Chennai,Tamil Nadu,Furniture,Office Chair,3,6499,20,Cash on Delivery,15597.6,47.44
+ORD1237,2026-02-21,Meera Iyer,Chennai,Tamil Nadu,Bags,Backpack,3,1199,5,Debit Card,3417.15,1127.33
+ORD1238,2026-01-02,Rahul Sharma,Delhi,Delhi,Stationery,Notebook,2,149,15,Net Banking,253.3,27.45
+ORD1239,2026-04-18,Pooja Nair,Hyderabad,Telangana,Lifestyle,Water Bottle,1,499,10,Net Banking,449.1,136.17
+ORD1240,2026-02-05,Sneha Patel,Kolkata,West Bengal,Stationery,Notebook,1,149,5,Cash on Delivery,141.55,46.08
+ORD1241,2026-02-16,Karan Shah,Pune,Maharashtra,Furniture,Office Chair,1,6499,15,Net Banking,5524.15,1562.68
+ORD1242,2026-01-09,Nikhil Reddy,Kolkata,West Bengal,Bags,Backpack,5,1199,15,Credit Card,5095.75,1197.94
+ORD1243,2026-06-01,Rahul Sharma,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,20,Credit Card,399.2,0.35
+ORD1244,2026-06-16,Pooja Nair,Chennai,Tamil Nadu,Accessories,USB-C Cable,2,399,10,UPI,718.2,89.97
+ORD1245,2026-08-30,Arjun Verma,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,4,1499,5,UPI,5696.2,1502.66
+ORD1246,2026-05-30,Arjun Verma,Delhi,Delhi,Electronics,Power Bank,2,1599,0,Debit Card,3198.0,1126.71
+ORD1247,2026-09-11,Vikram Das,Kolkata,West Bengal,Furniture,Desk Lamp,2,1799,0,Credit Card,3598.0,1129.77
+ORD1248,2026-05-05,Rohan Mehta,Delhi,Delhi,Furniture,Office Chair,5,6499,5,UPI,30870.25,8482.82
+ORD1249,2026-04-12,Pooja Nair,Bengaluru,Karnataka,Furniture,Desk Lamp,4,1799,10,Net Banking,6476.4,1203.83
+ORD1250,2026-03-14,Ananya Rao,Hyderabad,Telangana,Stationery,Notebook,5,149,0,UPI,745.0,200.36
+ORD1251,2026-05-10,Simran Kaur,Pune,Maharashtra,Stationery,Pen Set,4,199,20,Net Banking,636.8,68.3
+ORD1252,2026-02-27,Aman Kumar,Chennai,Tamil Nadu,Stationery,Notebook,2,149,10,Credit Card,268.2,54.46
+ORD1253,2026-04-26,Ananya Rao,Kolkata,West Bengal,Electronics,Power Bank,2,1599,0,Cash on Delivery,3198.0,578.82
+ORD1254,2026-07-27,Pooja Nair,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,5,399,20,UPI,1596.0,120.32
+ORD1255,2026-01-03,Meera Iyer,Kolkata,West Bengal,Electronics,Power Bank,1,1599,15,Net Banking,1359.15,54.57
+ORD1256,2026-09-05,Simran Kaur,Kolkata,West Bengal,Electronics,Power Bank,3,1599,20,UPI,3837.6,181.42
+ORD1257,2026-06-10,Arjun Verma,Jaipur,Rajasthan,Accessories,Laptop Stand,4,1299,5,Cash on Delivery,4936.2,917.93
+ORD1258,2026-05-31,Priya Singh,Pune,Maharashtra,Accessories,USB-C Cable,2,399,20,Net Banking,638.4,153.25
+ORD1259,2026-06-29,Meera Iyer,Mumbai,Maharashtra,Stationery,Pen Set,5,199,5,Credit Card,945.25,143.15
+ORD1260,2026-04-11,Sneha Patel,Hyderabad,Telangana,Electronics,Keyboard,3,899,10,Credit Card,2427.3,468.17
+ORD1261,2026-08-04,Pooja Nair,Bengaluru,Karnataka,Lifestyle,Water Bottle,2,499,20,Debit Card,798.4,116.03
+ORD1262,2026-05-10,Aman Kumar,Kolkata,West Bengal,Accessories,USB-C Cable,1,399,20,Credit Card,319.2,77.79
+ORD1263,2026-09-10,Neha Gupta,Hyderabad,Telangana,Electronics,Keyboard,2,899,0,UPI,1798.0,491.69
+ORD1264,2026-01-25,Aditya Jain,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,15,Net Banking,2545.75,417.61
+ORD1265,2026-03-20,Sneha Patel,Mumbai,Maharashtra,Stationery,Notebook,5,149,5,Net Banking,707.75,177.8
+ORD1266,2026-06-09,Aditya Jain,Hyderabad,Telangana,Electronics,Keyboard,5,899,15,Debit Card,3820.75,281.75
+ORD1267,2026-09-23,Vikram Das,Mumbai,Maharashtra,Electronics,Power Bank,3,1599,10,Credit Card,4317.3,843.42
+ORD1268,2026-05-29,Vikram Das,Mumbai,Maharashtra,Stationery,Notebook,1,149,10,Cash on Delivery,134.1,39.11
+ORD1269,2026-04-13,Ananya Rao,Delhi,Delhi,Furniture,Office Chair,4,6499,0,UPI,25996.0,7484.95
+ORD1270,2026-05-04,Neha Gupta,Chennai,Tamil Nadu,Furniture,Office Chair,4,6499,15,Credit Card,22096.6,5505.29
+ORD1271,2026-04-02,Neha Gupta,Chennai,Tamil Nadu,Accessories,USB-C Cable,5,399,10,Net Banking,1795.5,437.09
+ORD1272,2026-08-18,Nikhil Reddy,Pune,Maharashtra,Accessories,Laptop Stand,2,1299,10,,2338.2,540.16
+ORD1273,2026-08-01,Pooja Nair,Lucknow,Uttar Pradesh,Furniture,Office Chair,2,6499,20,Credit Card,10398.4,1984.22
+ORD1274,2026-06-13,Rahul Sharma,Chennai,Tamil Nadu,Accessories,Laptop Stand,2,1299,20,Debit Card,2078.4,-28.86
+ORD1275,2026-07-02,Arjun Verma,Bengaluru,Karnataka,Electronics,Power Bank,3,1599,20,Credit Card,3837.6,68.32
+ORD1276,2026-08-15,Vikram Das,Hyderabad,Telangana,Electronics,Keyboard,4,899,15,Net Banking,3056.6,383.42
+ORD1277,2026-04-23,Vikram Das,Hyderabad,Telangana,Bags,Backpack,2,1199,20,UPI,1918.4,-24.86
+ORD1278,2026-02-17,Aditya Jain,Ahmedabad,Gujarat,Stationery,Pen Set,1,199,0,UPI,199.0,44.19
+ORD1279,2026-07-22,Rohan Mehta,Lucknow,Uttar Pradesh,Electronics,Keyboard,2,899,15,Credit Card,1528.3,140.5
+ORD1280,2026-06-22,Aman Kumar,Ahmedabad,Gujarat,Furniture,Desk Lamp,1,1799,0,Net Banking,1799.0,693.22
+ORD1281,2026-03-28,Karan Shah,Bengaluru,Karnataka,Furniture,Office Chair,5,6499,20,UPI,25996.0,6227.19
+ORD1282,2026-08-20,Pooja Nair,Delhi,Delhi,Stationery,Notebook,3,149,0,Cash on Delivery,447.0,84.74
+ORD1283,2026-09-18,Arjun Verma,Hyderabad,Telangana,Electronics,Bluetooth Speaker,3,1499,15,Credit Card,3822.45,773.19
+ORD1284,2026-02-18,Sneha Patel,Pune,Maharashtra,Electronics,Power Bank,1,1599,0,Cash on Delivery,1599.0,296.27
+ORD1285,2026-09-12,Priya Singh,Jaipur,Rajasthan,Stationery,Pen Set,1,199,5,Credit Card,189.05,48.71
+ORD1286,2026-09-26,Arjun Verma,Chennai,Tamil Nadu,Accessories,USB-C Cable,4,399,10,Cash on Delivery,1436.4,134.71
+ORD1287,2026-07-02,Vikram Das,Mumbai,Maharashtra,Furniture,Desk Lamp,2,1799,0,UPI,3598.0,704.57
+ORD1288,2026-08-01,Simran Kaur,Ahmedabad,Gujarat,Furniture,Desk Lamp,4,1799,5,Debit Card,6836.2,1548.24
+ORD1289,2026-08-10,Rohan Mehta,Bengaluru,Karnataka,Stationery,Notebook,5,149,10,UPI,670.5,113.45
+ORD1290,2026-05-06,Ananya Rao,Jaipur,Rajasthan,Electronics,Keyboard,5,899,20,Cash on Delivery,3596.0,680.39
+ORD1291,2026-09-26,Priya Singh,Pune,Maharashtra,Bags,Backpack,3,1199,0,Credit Card,3597.0,697.01
+ORD1292,2026-03-29,Simran Kaur,Chennai,Tamil Nadu,Accessories,USB-C Cable,3,399,5,Net Banking,1137.15,362.72
+ORD1293,2026-01-03,Nikhil Reddy,Pune,Maharashtra,Furniture,Desk Lamp,5,1799,20,Debit Card,7196.0,327.84
+ORD1294,2026-04-21,Ananya Rao,Kolkata,West Bengal,Furniture,Office Chair,4,6499,0,Credit Card,25996.0,6045.45
+ORD1295,2026-04-14,Aman Kumar,Lucknow,Uttar Pradesh,Stationery,Notebook,1,149,15,Credit Card,126.65,13.44
+ORD1296,2026-08-19,Karan Shah,Mumbai,Maharashtra,Furniture,Desk Lamp,1,1799,5,Debit Card,1709.05,335.84
+ORD1297,2026-03-27,Pooja Nair,Mumbai,Maharashtra,Stationery,Pen Set,5,199,0,Credit Card,995.0,276.68
+ORD1298,2026-05-01,Priya Singh,Lucknow,Uttar Pradesh,Bags,Backpack,4,1199,0,Net Banking,4796.0,1906.76
+ORD1299,2026-03-11,Ananya Rao,Jaipur,Rajasthan,Accessories,USB-C Cable,3,399,10,Debit Card,1077.3,137.38
+ORD1300,2026-01-24,Neha Gupta,Chennai,Tamil Nadu,Lifestyle,Water Bottle,4,499,20,Debit Card,1596.8,116.69
+ORD1301,2026-09-17,Simran Kaur,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,5,1299,20,UPI,5196.0,1257.46
+ORD1302,2026-08-04,Arjun Verma,Hyderabad,Telangana,Electronics,Wireless Mouse,4,599,20,Credit Card,1916.8,140.62
+ORD1303,2026-06-08,Simran Kaur,Kolkata,West Bengal,Accessories,USB-C Cable,4,399,5,Cash on Delivery,1516.2,348.15
+ORD1304,2026-04-27,Nikhil Reddy,Delhi,Delhi,Electronics,Wireless Mouse,3,599,20,Cash on Delivery,1437.6,64.51
+ORD1305,2026-04-26,Rahul Sharma,Delhi,Delhi,Accessories,USB-C Cable,1,399,0,Debit Card,399.0,151.82
+ORD1306,2026-09-17,Sneha Patel,Jaipur,Rajasthan,Electronics,Power Bank,5,1599,0,Debit Card,7995.0,2457.07
+ORD1307,2026-03-02,Pooja Nair,Pune,Maharashtra,Electronics,Power Bank,3,1599,0,Credit Card,4797.0,915.9
+ORD1308,2026-02-20,Arjun Verma,Delhi,Delhi,Furniture,Desk Lamp,1,1799,20,Debit Card,1439.2,83.68
+ORD1309,2026-02-18,Arjun Verma,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,1499,10,Credit Card,2698.2,650.8
+ORD1310,2026-05-09,Ananya Rao,Chennai,Tamil Nadu,Accessories,USB-C Cable,2,399,15,UPI,678.3,190.75
+ORD1311,2026-02-26,Nikhil Reddy,Hyderabad,Telangana,Bags,Backpack,1,1199,15,Cash on Delivery,1019.15,265.1
+ORD1312,2026-04-16,Meera Iyer,Ahmedabad,Gujarat,Stationery,Pen Set,4,199,20,Cash on Delivery,636.8,147.12
+ORD1313,2026-07-01,Nikhil Reddy,Kolkata,West Bengal,Electronics,Bluetooth Speaker,4,1499,5,Credit Card,5696.2,1739.87
+ORD1314,2026-07-03,Karan Shah,Jaipur,Rajasthan,Bags,Backpack,4,1199,0,Cash on Delivery,4796.0,1403.95
+ORD1315,2026-06-27,Rahul Sharma,Mumbai,Maharashtra,Lifestyle,Water Bottle,3,499,0,Debit Card,1497.0,484.87
+ORD1316,2026-05-23,Rohan Mehta,Kolkata,West Bengal,Bags,Backpack,2,1199,10,Net Banking,2158.2,211.15
+ORD1317,2026-01-21,Priya Singh,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,4,499,0,Net Banking,1996.0,581.26
+ORD1318,2026-06-10,Priya Singh,Delhi,Delhi,Furniture,Office Chair,2,6499,20,Net Banking,10398.4,983.0
+ORD1319,2026-03-02,Aditya Jain,Hyderabad,Telangana,Lifestyle,Water Bottle,1,499,0,Credit Card,499.0,142.14
+ORD1320,2026-07-17,Priya Singh,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,1,1799,0,UPI,1799.0,504.48
+ORD1321,2026-02-26,Priya Singh,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,5,1299,5,Credit Card,6170.25,1324.19
+ORD1322,2026-02-28,Pooja Nair,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,5,1499,15,Debit Card,6370.75,1771.07
+ORD1323,2026-03-09,Meera Iyer,Delhi,Delhi,Electronics,Wireless Mouse,5,599,15,Cash on Delivery,2545.75,389.75
+ORD1324,2026-06-17,Pooja Nair,Pune,Maharashtra,Stationery,Notebook,5,149,15,Cash on Delivery,633.25,43.56
+ORD1325,2026-02-13,Rahul Sharma,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,2,599,0,Credit Card,1198.0,454.39
+ORD1326,2026-07-16,Aman Kumar,Hyderabad,Telangana,Electronics,Bluetooth Speaker,4,1499,0,Debit Card,5996.0,1874.21
+ORD1327,2026-06-13,Arjun Verma,Ahmedabad,Gujarat,Electronics,Power Bank,2,1599,15,Net Banking,2718.3,241.68
+ORD1328,2026-09-25,Priya Singh,Ahmedabad,Gujarat,Furniture,Office Chair,1,6499,5,Debit Card,6174.05,2048.81
+ORD1329,2026-08-08,Rahul Sharma,Delhi,Delhi,Furniture,Desk Lamp,2,1799,10,Net Banking,3238.2,300.88
+ORD1330,2026-01-16,Rahul Sharma,Chennai,Tamil Nadu,Accessories,USB-C Cable,3,399,0,Net Banking,1197.0,267.18
+ORD1331,2026-04-12,Pooja Nair,Kolkata,West Bengal,Accessories,Laptop Stand,5,1299,20,Debit Card,5196.0,837.45
+ORD1332,2026-07-15,Vikram Das,Kolkata,West Bengal,Furniture,Desk Lamp,5,1799,0,Cash on Delivery,8995.0,3413.9
+ORD1333,2026-09-22,Sneha Patel,Mumbai,Maharashtra,Lifestyle,Water Bottle,5,499,10,Credit Card,2245.5,645.63
+ORD1334,2026-08-01,Ananya Rao,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,1499,15,Credit Card,5096.6,195.62
+ORD1335,2026-06-05,Ananya Rao,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,1499,15,Credit Card,5096.6,805.89
+ORD1336,2026-03-16,Vikram Das,Bengaluru,Karnataka,Accessories,Laptop Stand,3,1299,15,UPI,3312.45,198.05
+ORD1337,2026-07-31,Aditya Jain,Chennai,Tamil Nadu,Electronics,Power Bank,3,1599,10,Credit Card,4317.3,769.86
+ORD1338,2026-01-01,Ananya Rao,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,4,1499,0,Debit Card,5996.0,1534.0
+ORD1339,2026-04-27,Arjun Verma,Hyderabad,Telangana,Lifestyle,Water Bottle,1,499,20,Cash on Delivery,399.2,96.16
+ORD1340,2026-07-26,Priya Singh,Hyderabad,Telangana,Electronics,Power Bank,1,1599,0,Debit Card,1599.0,362.24
+ORD1341,2026-04-01,Priya Singh,Bengaluru,Karnataka,Bags,Backpack,3,1199,10,Cash on Delivery,3237.3,635.6
+ORD1342,2026-03-25,Rahul Sharma,Chennai,Tamil Nadu,Stationery,Notebook,3,149,10,UPI,402.3,38.04
+ORD1343,2026-07-20,Simran Kaur,Ahmedabad,Gujarat,Stationery,Notebook,2,149,0,Cash on Delivery,298.0,100.04
+ORD1344,2026-04-30,Neha Gupta,Kolkata,West Bengal,Stationery,Pen Set,3,199,15,Net Banking,507.45,40.32
+ORD1345,2026-03-30,Meera Iyer,Hyderabad,Telangana,Stationery,Notebook,1,149,0,Debit Card,149.0,59.19
+ORD1346,2026-02-10,Sneha Patel,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,1,1499,10,Debit Card,1349.1,208.88
+ORD1347,2026-03-27,Vikram Das,Hyderabad,Telangana,Electronics,Power Bank,2,1599,0,Net Banking,3198.0,1046.74
+ORD1348,2026-02-19,Arjun Verma,Bengaluru,Karnataka,Electronics,Power Bank,3,1599,10,Net Banking,4317.3,388.57
+ORD1349,2026-07-20,Aditya Jain,Chennai,Tamil Nadu,Accessories,USB-C Cable,5,399,10,UPI,1795.5,384.15
+ORD1350,2026-03-06,Ananya Rao,Hyderabad,Telangana,Electronics,Bluetooth Speaker,1,1499,5,Net Banking,1424.05,234.78
+ORD1351,2026-01-15,Vikram Das,Kolkata,West Bengal,Stationery,Notebook,4,149,15,Debit Card,506.6,88.1
+ORD1352,2026-06-06,Aman Kumar,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,5,399,20,Cash on Delivery,1596.0,121.92
+ORD1353,2026-03-17,Aditya Jain,Kolkata,West Bengal,Furniture,Office Chair,4,6499,15,Debit Card,22096.6,5159.67
+ORD1354,2026-09-14,Ananya Rao,Pune,Maharashtra,Electronics,Power Bank,2,1599,5,,3038.1,786.59
+ORD1355,2026-05-16,Aman Kumar,Mumbai,Maharashtra,Electronics,Wireless Mouse,5,599,15,Cash on Delivery,2545.75,350.73
+ORD1356,2026-05-22,Aman Kumar,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,1,599,20,Net Banking,479.2,57.47
+ORD1357,2026-02-18,Meera Iyer,Hyderabad,Telangana,Stationery,Notebook,1,149,20,UPI,119.2,12.2
+ORD1358,2026-09-02,Rahul Sharma,Ahmedabad,Gujarat,Furniture,Desk Lamp,4,1799,15,Credit Card,6116.6,1347.96
+ORD1359,2026-01-17,Ananya Rao,Pune,Maharashtra,Stationery,Pen Set,1,199,20,Net Banking,159.2,27.34
+ORD1360,2026-05-27,Karan Shah,Delhi,Delhi,Furniture,Desk Lamp,1,1799,20,Net Banking,1439.2,92.48
+ORD1361,2026-04-19,Simran Kaur,Bengaluru,Karnataka,Stationery,Notebook,4,149,10,Net Banking,536.4,124.91
+ORD1362,2026-06-02,Karan Shah,Bengaluru,Karnataka,Lifestyle,Water Bottle,4,499,5,Net Banking,1896.2,381.82
+ORD1363,2026-06-10,Nikhil Reddy,Kolkata,West Bengal,Electronics,Wireless Mouse,4,599,5,Cash on Delivery,2276.2,703.29
+ORD1364,2026-04-23,Rahul Sharma,Mumbai,Maharashtra,Accessories,Laptop Stand,3,1299,15,Cash on Delivery,3312.45,503.07
+ORD1365,2026-04-15,Pooja Nair,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,1,1499,5,Credit Card,1424.05,304.17
+ORD1366,2026-02-20,Neha Gupta,Delhi,Delhi,Furniture,Desk Lamp,5,1799,5,UPI,8545.25,2154.54
+ORD1367,2026-06-04,Arjun Verma,Jaipur,Rajasthan,Furniture,Office Chair,4,6499,10,Credit Card,23396.4,3658.31
+ORD1368,2026-09-25,Aman Kumar,Pune,Maharashtra,Electronics,Bluetooth Speaker,2,1499,0,Debit Card,2998.0,740.88
+ORD1369,2026-03-03,Rahul Sharma,Bengaluru,Karnataka,Furniture,Office Chair,5,6499,5,UPI,30870.25,4866.79
+ORD1370,2026-04-17,Priya Singh,Kolkata,West Bengal,Stationery,Notebook,1,149,15,Cash on Delivery,126.65,24.55
+ORD1371,2026-01-30,Simran Kaur,Delhi,Delhi,Furniture,Office Chair,1,6499,20,Cash on Delivery,5199.2,67.7
+ORD1372,2026-02-10,Nikhil Reddy,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,3,1499,15,Debit Card,3822.45,551.16
+ORD1373,2026-06-16,Priya Singh,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,1,1799,15,Cash on Delivery,1529.15,294.22
+ORD1374,2026-07-12,Nikhil Reddy,Chennai,Tamil Nadu,Furniture,Office Chair,4,6499,20,Cash on Delivery,20796.8,108.63
+ORD1375,2026-05-06,Karan Shah,Delhi,Delhi,Lifestyle,Water Bottle,4,499,5,UPI,1896.2,418.92
+ORD1376,2026-07-23,Neha Gupta,Bengaluru,Karnataka,Bags,Backpack,5,1199,5,UPI,5695.25,988.1
+ORD1377,2026-03-08,Karan Shah,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,5,Net Banking,2845.25,728.29
+ORD1378,2026-08-22,Aman Kumar,Hyderabad,Telangana,Lifestyle,Water Bottle,3,499,10,Credit Card,1347.3,321.32
+ORD1379,2026-05-02,Aditya Jain,Pune,Maharashtra,Furniture,Desk Lamp,5,1799,20,Net Banking,7196.0,1226.61
+ORD1380,2026-07-15,Priya Singh,Lucknow,Uttar Pradesh,Electronics,Power Bank,5,1599,10,Cash on Delivery,7195.5,835.89
+ORD1381,2026-05-06,Sneha Patel,Jaipur,Rajasthan,Electronics,Wireless Mouse,5,599,20,UPI,2396.0,199.13
+ORD1382,2026-06-11,Aditya Jain,Pune,Maharashtra,Accessories,USB-C Cable,5,399,20,Net Banking,1596.0,189.26
+ORD1383,2026-04-19,Aman Kumar,Kolkata,West Bengal,Electronics,Bluetooth Speaker,3,1499,5,Credit Card,4272.15,755.95
+ORD1384,2026-04-02,Nikhil Reddy,Bengaluru,Karnataka,Accessories,Laptop Stand,4,1299,20,Net Banking,4156.8,-65.53
+ORD1385,2026-09-30,Aman Kumar,Delhi,Delhi,Electronics,Keyboard,3,899,15,Cash on Delivery,2292.45,435.86
+ORD1386,2026-01-08,Simran Kaur,Mumbai,Maharashtra,Stationery,Notebook,1,149,5,Net Banking,141.55,37.02
+ORD1387,2026-04-01,Arjun Verma,Bengaluru,Karnataka,Accessories,Laptop Stand,4,1299,10,Credit Card,4676.4,1407.48
+ORD1388,2026-01-05,Rahul Sharma,Pune,Maharashtra,Electronics,Power Bank,5,1599,10,Cash on Delivery,7195.5,1432.3
+ORD1389,2026-06-03,Simran Kaur,Jaipur,Rajasthan,Lifestyle,Water Bottle,4,499,0,Cash on Delivery,1996.0,381.63
+ORD1390,2026-08-04,Rohan Mehta,Hyderabad,Telangana,Bags,Backpack,2,1199,15,Debit Card,2038.3,448.73
+ORD1391,2026-08-07,Priya Singh,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2,1499,0,Cash on Delivery,2998.0,628.3
+ORD1392,2026-04-26,Aditya Jain,Delhi,Delhi,Accessories,USB-C Cable,5,399,10,UPI,1795.5,510.51
+ORD1393,2026-01-13,Nikhil Reddy,Bengaluru,Karnataka,Electronics,Wireless Mouse,1,599,10,Net Banking,539.1,138.6
+ORD1394,2026-05-06,Arjun Verma,Kolkata,West Bengal,Electronics,Keyboard,5,899,10,Cash on Delivery,4045.5,486.13
+ORD1395,2026-06-12,Aman Kumar,Mumbai,Maharashtra,Stationery,Pen Set,3,199,0,Credit Card,597.0,134.6
+ORD1396,2026-01-25,Arjun Verma,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,10,UPI,449.1,68.7
+ORD1397,2026-05-07,Rahul Sharma,Chennai,Tamil Nadu,Stationery,Notebook,5,149,15,Cash on Delivery,633.25,78.32
+ORD1398,2026-09-17,Meera Iyer,Delhi,Delhi,Electronics,Keyboard,1,899,5,Debit Card,854.05,299.29
+ORD1399,2026-02-14,Aditya Jain,Delhi,Delhi,Stationery,Notebook,3,149,15,Debit Card,379.95,55.0
+ORD1400,2026-05-24,Neha Gupta,Pune,Maharashtra,Electronics,Keyboard,1,899,5,Cash on Delivery,854.05,157.51
+ORD1401,2026-08-03,Meera Iyer,,Maharashtra,Electronics,Keyboard,2,899,20,Debit Card,1438.4,95.82
+ORD1402,2026-06-07,Arjun Verma,Pune,Maharashtra,Furniture,Office Chair,5,6499,0,Net Banking,32495.0,9073.39
+ORD1403,2026-08-02,Nikhil Reddy,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,5,1499,10,UPI,6745.5,1180.31
+ORD1404,2026-02-23,Sneha Patel,Kolkata,West Bengal,Furniture,Office Chair,2,6499,5,Cash on Delivery,12348.1,2200.37
+ORD1405,2026-01-22,Meera Iyer,Mumbai,Maharashtra,Electronics,Keyboard,4,899,15,Cash on Delivery,3056.6,659.14
+ORD1406,2026-09-05,Priya Singh,Kolkata,West Bengal,Stationery,Notebook,2,149,15,Debit Card,253.3,41.94
+ORD1407,2026-06-03,Priya Singh,Jaipur,Rajasthan,Electronics,Power Bank,1,1599,0,UPI,1599.0,639.55
+ORD1408,2026-06-06,Simran Kaur,Kolkata,West Bengal,Stationery,Notebook,2,149,0,Debit Card,298.0,96.89
+ORD1409,2026-06-11,Simran Kaur,Jaipur,Rajasthan,Electronics,Wireless Mouse,3,599,10,Cash on Delivery,1617.3,315.74
+ORD1410,2026-07-17,Ananya Rao,Hyderabad,Telangana,Electronics,Keyboard,3,899,20,Cash on Delivery,2157.6,288.78
+ORD1411,2026-08-05,Ananya Rao,Delhi,Delhi,Accessories,Laptop Stand,1,1299,5,Credit Card,1234.05,442.56
+ORD1412,2026-01-24,Simran Kaur,Kolkata,West Bengal,Accessories,Laptop Stand,5,1299,10,Debit Card,5845.5,996.3
+ORD1413,2026-07-30,Simran Kaur,Bengaluru,Karnataka,Accessories,USB-C Cable,1,399,0,Net Banking,399.0,150.35
+ORD1414,2026-05-26,Meera Iyer,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,5,599,15,Debit Card,2545.75,178.26
+ORD1415,2026-04-10,Nikhil Reddy,Jaipur,Rajasthan,Electronics,Power Bank,1,1599,20,Credit Card,1279.2,173.28
+ORD1416,2026-06-22,Aditya Jain,Jaipur,Rajasthan,Stationery,Pen Set,3,199,0,Credit Card,597.0,134.22
+ORD1417,2026-05-29,Simran Kaur,Jaipur,Rajasthan,Stationery,Notebook,4,149,5,UPI,566.2,111.95
+ORD1418,2026-02-18,Neha Gupta,Hyderabad,Telangana,Accessories,Laptop Stand,4,1299,10,Credit Card,4676.4,1138.38
+ORD1419,2026-06-14,Neha Gupta,Chennai,Tamil Nadu,Electronics,Power Bank,5,1599,5,Credit Card,7595.25,2772.41
+ORD1420,2026-04-21,Neha Gupta,Pune,Maharashtra,Electronics,Wireless Mouse,4,599,5,UPI,2276.2,822.04
+ORD1421,2026-07-07,Pooja Nair,Pune,Maharashtra,Accessories,USB-C Cable,5,399,10,UPI,1795.5,213.3
+ORD1422,2026-07-05,Simran Kaur,Hyderabad,Telangana,Furniture,Office Chair,4,6499,0,Debit Card,25996.0,7417.05
+ORD1423,2026-08-21,Priya Singh,Pune,Maharashtra,Accessories,Laptop Stand,2,1299,10,Net Banking,2338.2,560.73
+ORD1424,2026-01-07,Sneha Patel,Pune,Maharashtra,Furniture,Office Chair,5,6499,0,UPI,32495.0,7470.89
+ORD1425,2026-06-09,Karan Shah,Chennai,Tamil Nadu,Accessories,USB-C Cable,5,399,15,UPI,1695.75,126.98
+ORD1426,2026-07-14,Aditya Jain,Kolkata,West Bengal,Stationery,Pen Set,5,199,10,UPI,895.5,232.19
+ORD1427,2026-08-06,Sneha Patel,Mumbai,Maharashtra,Electronics,Keyboard,4,899,20,Credit Card,2876.8,127.88
+ORD1428,2026-05-23,Simran Kaur,Ahmedabad,Gujarat,Stationery,Pen Set,5,199,15,UPI,845.75,129.56
+ORD1429,2026-01-26,Vikram Das,Bengaluru,Karnataka,Furniture,Desk Lamp,2,1799,15,Credit Card,3058.3,408.94
+ORD1430,2026-03-09,Nikhil Reddy,Delhi,Delhi,Furniture,Desk Lamp,5,1799,20,Cash on Delivery,7196.0,755.59
+ORD1431,2026-06-08,Vikram Das,Bengaluru,Karnataka,Electronics,Wireless Mouse,4,599,15,Credit Card,2036.6,314.98
+ORD1432,2026-09-05,,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,2,599,20,UPI,958.4,108.53
+ORD1433,2026-03-02,Pooja Nair,Mumbai,Maharashtra,Bags,Backpack,3,1199,5,Net Banking,3417.15,1067.53
+ORD1434,2026-08-11,Meera Iyer,Chennai,Tamil Nadu,Bags,Backpack,2,1199,5,Debit Card,2278.1,744.18
+ORD1435,2026-06-10,Rahul Sharma,Pune,Maharashtra,Stationery,Notebook,4,149,20,Debit Card,476.8,112.65
+ORD1436,2026-09-29,Sneha Patel,Mumbai,Maharashtra,Furniture,Desk Lamp,4,1799,15,Debit Card,6116.6,278.21
+ORD1437,2026-03-30,Priya Singh,Ahmedabad,Gujarat,Furniture,Desk Lamp,2,1799,0,Debit Card,3598.0,1265.76
+ORD1438,2026-04-18,Aman Kumar,,West Bengal,Furniture,Office Chair,2,6499,5,Net Banking,12348.1,4508.72
+ORD1439,2026-09-04,Ananya Rao,Mumbai,Maharashtra,Electronics,Wireless Mouse,3,599,10,Net Banking,1617.3,332.95
+ORD1440,2026-03-22,Karan Shah,Lucknow,Uttar Pradesh,Stationery,Notebook,4,149,0,Cash on Delivery,596.0,178.32
+ORD1441,2026-03-15,Sneha Patel,Ahmedabad,Gujarat,Electronics,Keyboard,5,899,15,Net Banking,3820.75,1111.78
+ORD1442,2026-02-24,Ananya Rao,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,5,1799,5,Debit Card,8545.25,2511.7
+ORD1443,2026-05-21,Aditya Jain,Pune,Maharashtra,Accessories,Laptop Stand,3,1299,0,Credit Card,3897.0,1213.49
+ORD1444,2026-06-09,Vikram Das,Hyderabad,Telangana,Stationery,Pen Set,3,199,5,Net Banking,567.15,78.5
+ORD1445,2026-04-04,Aman Kumar,Kolkata,West Bengal,Electronics,Wireless Mouse,3,599,15,Debit Card,1527.45,413.38
+ORD1446,2026-06-22,Sneha Patel,Bengaluru,Karnataka,Furniture,Office Chair,3,6499,5,Net Banking,18522.15,5292.14
+ORD1447,2026-04-24,Rahul Sharma,Hyderabad,Telangana,Accessories,Laptop Stand,3,1299,5,Credit Card,3702.15,800.99
+ORD1448,2026-02-10,Vikram Das,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,4,399,5,Net Banking,1516.2,263.72
+ORD1449,2026-08-09,Sneha Patel,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,1,599,5,Net Banking,569.05,120.1
+ORD1450,2026-04-19,Simran Kaur,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,5,1499,10,Credit Card,6745.5,1710.4
+ORD1451,2026-03-25,Nikhil Reddy,Ahmedabad,Gujarat,Accessories,Laptop Stand,5,1299,15,Credit Card,5520.75,447.54
+ORD1452,2026-02-15,Simran Kaur,Hyderabad,Telangana,Stationery,Notebook,1,149,10,UPI,134.1,25.24
+ORD1453,2026-02-09,Nikhil Reddy,Hyderabad,Telangana,Lifestyle,Water Bottle,3,499,20,Net Banking,1197.6,147.9
+ORD1454,2026-06-30,Ananya Rao,Hyderabad,Telangana,Electronics,Keyboard,5,899,5,Cash on Delivery,4270.25,757.62
+ORD1455,2026-09-06,Simran Kaur,Kolkata,West Bengal,Accessories,Laptop Stand,5,1299,0,Net Banking,6495.0,2597.98
+ORD1456,2026-06-28,Neha Gupta,Jaipur,Rajasthan,Lifestyle,Water Bottle,5,499,20,Cash on Delivery,1996.0,258.87
+ORD1457,2026-01-30,Meera Iyer,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,1499,0,Net Banking,5996.0,1279.23
+ORD1458,2026-02-16,Neha Gupta,Jaipur,Rajasthan,Furniture,Desk Lamp,3,1799,0,Cash on Delivery,5397.0,1718.37
+ORD1459,2026-09-29,Karan Shah,Kolkata,West Bengal,Stationery,Notebook,5,149,20,Credit Card,596.0,124.48
+ORD1460,2026-01-10,Neha Gupta,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,2,1799,0,UPI,3598.0,1226.39
+ORD1461,2026-04-12,Rahul Sharma,Bengaluru,Karnataka,Accessories,USB-C Cable,4,399,0,UPI,1596.0,592.77
+ORD1462,2026-03-29,Priya Singh,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,4,1499,0,Debit Card,5996.0,1167.76
+ORD1463,2026-03-22,Priya Singh,Pune,Maharashtra,Electronics,Wireless Mouse,2,599,20,Debit Card,958.4,12.49
+ORD1464,2026-01-03,Rahul Sharma,Jaipur,Rajasthan,Stationery,Pen Set,5,199,15,UPI,845.75,34.55
+ORD1465,2026-04-10,Sneha Patel,Kolkata,West Bengal,Electronics,Wireless Mouse,1,599,10,Credit Card,539.1,116.12
+ORD1466,2026-03-19,Pooja Nair,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,3,1499,15,UPI,3822.45,1001.19
+ORD1467,2026-06-17,Aman Kumar,Mumbai,Maharashtra,Furniture,Office Chair,4,6499,10,Net Banking,23396.4,4933.02
+ORD1468,2026-05-27,Simran Kaur,Bengaluru,Karnataka,Accessories,Laptop Stand,3,1299,20,Debit Card,3117.6,-44.94
+ORD1469,2026-01-02,Ananya Rao,Lucknow,Uttar Pradesh,Stationery,Pen Set,4,199,15,Debit Card,676.6,89.54
+ORD1470,2026-03-24,Aman Kumar,Jaipur,Rajasthan,Accessories,Laptop Stand,3,1299,5,Credit Card,3702.15,649.93
+ORD1471,2026-05-06,Arjun Verma,Hyderabad,Telangana,Stationery,Notebook,4,149,0,Debit Card,596.0,166.43
+ORD1472,2026-01-05,Vikram Das,Chennai,Tamil Nadu,Furniture,Desk Lamp,4,1799,0,Cash on Delivery,7196.0,1398.19
+ORD1473,2026-01-19,Neha Gupta,Chennai,Tamil Nadu,Bags,Backpack,3,1199,0,Net Banking,3597.0,1212.67
+ORD1474,2026-07-01,Rohan Mehta,Mumbai,Maharashtra,Furniture,Office Chair,4,6499,0,Debit Card,25996.0,6728.24
+ORD1475,2026-07-21,Vikram Das,Pune,Maharashtra,Stationery,Notebook,4,149,20,UPI,476.8,76.55
+ORD1476,2026-01-06,Pooja Nair,Ahmedabad,Gujarat,Lifestyle,Water Bottle,5,499,5,Net Banking,2370.25,774.8
+ORD1477,2026-08-07,Rahul Sharma,Jaipur,Rajasthan,Accessories,Laptop Stand,2,1299,5,Cash on Delivery,2468.1,576.55
+ORD1478,2026-07-27,Priya Singh,Kolkata,West Bengal,Furniture,Desk Lamp,3,1799,5,Cash on Delivery,5127.15,1275.34
+ORD1479,2026-08-07,Aditya Jain,Ahmedabad,Gujarat,Lifestyle,Water Bottle,2,499,10,Cash on Delivery,898.2,168.68
+ORD1480,2026-05-14,Nikhil Reddy,Jaipur,Rajasthan,Bags,Backpack,4,1199,15,Debit Card,4076.6,715.73
+ORD1481,2026-02-28,Simran Kaur,Lucknow,Uttar Pradesh,Stationery,Pen Set,1,199,0,Credit Card,199.0,56.58
+ORD1482,2026-03-20,Karan Shah,Hyderabad,Telangana,Electronics,Wireless Mouse,3,599,5,Debit Card,1707.15,451.41
+ORD1483,2026-03-09,Rohan Mehta,Chennai,Tamil Nadu,Furniture,Desk Lamp,4,1799,5,UPI,6836.2,1927.22
+ORD1484,2026-03-14,Aditya Jain,Jaipur,Rajasthan,Accessories,USB-C Cable,3,399,0,Credit Card,1197.0,420.74
+ORD1485,2026-02-23,Priya Singh,Pune,Maharashtra,Bags,Backpack,1,1199,5,Debit Card,1139.05,417.46
+ORD1486,2026-09-28,Sneha Patel,Hyderabad,Telangana,Furniture,Desk Lamp,5,1799,0,Net Banking,8995.0,2739.12
+ORD1487,2026-09-30,Karan Shah,Jaipur,Rajasthan,Furniture,Desk Lamp,2,1799,10,UPI,3238.2,612.81
+ORD1488,2026-02-08,Rahul Sharma,Jaipur,Rajasthan,Lifestyle,Water Bottle,2,499,15,Net Banking,848.3,204.7
+ORD1489,2026-07-22,Aditya Jain,Kolkata,West Bengal,Accessories,USB-C Cable,1,399,0,Credit Card,399.0,158.21
+ORD1490,2026-04-04,Rohan Mehta,Delhi,Delhi,Lifestyle,Water Bottle,1,499,10,Credit Card,449.1,84.4
+ORD1491,2026-03-18,Ananya Rao,Mumbai,Maharashtra,Bags,Backpack,3,1199,15,Debit Card,3057.45,161.16
+ORD1492,2026-06-28,Meera Iyer,Lucknow,Uttar Pradesh,Bags,Backpack,1,1199,10,Credit Card,1079.1,222.15
+ORD1493,2026-07-01,Arjun Verma,Bengaluru,Karnataka,Stationery,Pen Set,5,199,10,UPI,895.5,180.66
+ORD1494,2026-02-27,Karan Shah,Mumbai,Maharashtra,Stationery,Notebook,3,149,20,Debit Card,357.6,48.95
+ORD1495,2026-02-06,Nikhil Reddy,Pune,Maharashtra,Lifestyle,Water Bottle,4,499,5,Cash on Delivery,1896.2,413.47
+ORD1496,2026-09-17,Neha Gupta,Mumbai,Maharashtra,Electronics,Keyboard,3,899,5,Net Banking,2562.15,930.95
+ORD1497,2026-01-03,Meera Iyer,Pune,Maharashtra,Stationery,Notebook,4,149,15,Credit Card,506.6,135.18
+ORD1498,2026-07-21,Simran Kaur,Jaipur,Rajasthan,Electronics,Wireless Mouse,5,599,20,Net Banking,2396.0,552.55
+ORD1499,2026-03-24,Aman Kumar,Mumbai,Maharashtra,Furniture,Office Chair,3,6499,20,Cash on Delivery,15597.6,354.31
+ORD1500,2026-08-22,Rohan Mehta,Chennai,Tamil Nadu,Electronics,Wireless Mouse,4,599,15,UPI,2036.6,467.24
+ORD1501,2026-02-01,Rohan Mehta,Chennai,Tamil Nadu,Lifestyle,Water Bottle,4,499,0,Net Banking,1996.0,434.76
+ORD1502,2026-04-07,Rahul Sharma,Hyderabad,Telangana,Lifestyle,Water Bottle,1,499,5,Net Banking,474.05,144.84
+ORD1503,2026-05-30,Vikram Das,Jaipur,Rajasthan,Bags,Backpack,3,1199,20,Net Banking,2877.6,321.25
+ORD1504,2026-08-02,Vikram Das,Lucknow,Uttar Pradesh,Furniture,Office Chair,1,6499,15,Net Banking,5524.15,396.91
+ORD1505,2026-02-14,Rahul Sharma,Chennai,Tamil Nadu,Furniture,Office Chair,5,6499,15,,27620.75,6482.38
+ORD1506,2026-09-03,Rahul Sharma,Mumbai,Maharashtra,Accessories,Laptop Stand,4,1299,5,UPI,4936.2,1479.34
+ORD1507,2026-04-25,Sneha Patel,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,1499,5,Credit Card,2848.1,630.72
+ORD1508,2026-09-04,Nikhil Reddy,Jaipur,Rajasthan,Lifestyle,Water Bottle,4,499,10,Debit Card,1796.4,491.06
+ORD1509,2026-01-19,Aman Kumar,Pune,Maharashtra,Electronics,Power Bank,3,1599,20,Credit Card,3837.6,521.71
+ORD1510,2026-05-21,Neha Gupta,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,20,UPI,399.2,44.9
+ORD1511,2026-05-08,Ananya Rao,Mumbai,Maharashtra,Electronics,Wireless Mouse,5,599,20,Credit Card,2396.0,376.81
+ORD1512,2026-01-07,Pooja Nair,Bengaluru,Karnataka,Furniture,Office Chair,5,6499,20,UPI,25996.0,1031.51
+ORD1513,2026-06-20,Vikram Das,Kolkata,West Bengal,Accessories,Laptop Stand,1,1299,0,Debit Card,1299.0,344.89
+ORD1514,2026-01-25,Neha Gupta,Delhi,Delhi,Accessories,Laptop Stand,3,1299,5,Cash on Delivery,3702.15,1146.81
+ORD1515,2026-04-28,Vikram Das,Jaipur,Rajasthan,Stationery,Notebook,1,149,20,Net Banking,119.2,2.87
+ORD1516,2026-05-19,Arjun Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,2,1499,0,UPI,2998.0,617.1
+ORD1517,2026-01-22,Neha Gupta,Ahmedabad,Gujarat,Electronics,Keyboard,3,899,5,Cash on Delivery,2562.15,904.21
+ORD1518,2026-02-18,Aditya Jain,Jaipur,Rajasthan,Stationery,Notebook,4,149,15,Credit Card,506.6,77.46
+ORD1519,2026-08-09,Aman Kumar,Mumbai,Maharashtra,Bags,Backpack,4,1199,20,Debit Card,3836.8,369.33
+ORD1520,2026-05-02,Nikhil Reddy,Delhi,Delhi,Bags,Backpack,3,1199,15,Debit Card,3057.45,531.88
+ORD1521,2026-07-26,Vikram Das,Mumbai,Maharashtra,Electronics,Wireless Mouse,1,599,15,Cash on Delivery,509.15,66.47
+ORD1522,2026-07-28,Aman Kumar,Ahmedabad,Gujarat,Stationery,Pen Set,2,199,5,Net Banking,378.1,70.83
+ORD1523,2026-09-22,Nikhil Reddy,Delhi,Delhi,Electronics,Power Bank,5,1599,10,Cash on Delivery,7195.5,2099.7
+ORD1524,2026-09-02,Neha Gupta,Pune,Maharashtra,Lifestyle,Water Bottle,1,499,10,Credit Card,449.1,102.15
+ORD1525,2026-04-04,Meera Iyer,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,3,1799,0,Cash on Delivery,5397.0,1872.06
+ORD1526,2026-06-27,Simran Kaur,Lucknow,Uttar Pradesh,Electronics,Power Bank,3,1599,0,Debit Card,4797.0,1301.78
+ORD1527,2026-08-27,Aman Kumar,Lucknow,Uttar Pradesh,Furniture,Office Chair,2,6499,0,Debit Card,12998.0,4421.55
+ORD1528,2026-03-15,Rohan Mehta,Bengaluru,Karnataka,Electronics,Power Bank,5,1599,5,Net Banking,7595.25,2308.47
+ORD1529,2026-07-23,Rahul Sharma,Hyderabad,Telangana,Furniture,Office Chair,4,6499,5,Cash on Delivery,24696.2,5101.23
+ORD1530,2026-06-12,Nikhil Reddy,Ahmedabad,Gujarat,Electronics,Wireless Mouse,5,599,20,Net Banking,2396.0,19.7
+ORD1531,2026-09-12,Aditya Jain,Ahmedabad,Gujarat,Electronics,Keyboard,1,899,10,Net Banking,809.1,168.0
+ORD1532,2026-09-13,Neha Gupta,Pune,Maharashtra,Electronics,Keyboard,2,899,10,Debit Card,1618.2,217.92
+ORD1533,2026-03-02,Pooja Nair,Hyderabad,Telangana,Electronics,Power Bank,3,1599,20,Debit Card,3837.6,169.81
+ORD1534,2026-03-27,Neha Gupta,Delhi,Delhi,Electronics,Wireless Mouse,3,599,15,Credit Card,1527.45,96.72
+ORD1535,2026-07-27,Arjun Verma,Bengaluru,Karnataka,Accessories,USB-C Cable,3,399,5,Net Banking,1137.15,270.59
+ORD1536,2026-01-19,Karan Shah,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,1,1499,15,Credit Card,1274.15,48.04
+ORD1537,2026-05-19,Meera Iyer,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,1,1799,15,Credit Card,1529.15,224.36
+ORD1538,2026-05-29,Simran Kaur,Kolkata,West Bengal,Electronics,Power Bank,5,1599,10,Credit Card,7195.5,1573.07
+ORD1539,2026-01-14,Karan Shah,Hyderabad,Telangana,Bags,Backpack,1,1199,5,Debit Card,1139.05,231.02
+ORD1540,2026-05-13,Rohan Mehta,Mumbai,Maharashtra,Furniture,Desk Lamp,2,1799,10,UPI,3238.2,946.93
+ORD1541,2026-09-17,Rahul Sharma,Jaipur,Rajasthan,Stationery,Pen Set,2,199,10,Cash on Delivery,358.2,53.92
+ORD1542,2026-05-22,Priya Singh,Pune,Maharashtra,Bags,Backpack,2,1199,0,Cash on Delivery,2398.0,517.44
+ORD1543,2026-04-28,Sneha Patel,Mumbai,Maharashtra,Electronics,Wireless Mouse,3,599,10,Debit Card,1617.3,359.78
+ORD1544,2026-08-18,Priya Singh,Ahmedabad,Gujarat,Lifestyle,Water Bottle,5,499,20,Cash on Delivery,1996.0,178.17
+ORD1545,2026-05-30,Sneha Patel,Pune,Maharashtra,Lifestyle,Water Bottle,3,499,15,Net Banking,1272.45,257.36
+ORD1546,2026-05-24,Meera Iyer,Ahmedabad,Gujarat,Lifestyle,Water Bottle,1,499,15,Debit Card,424.15,28.04
+ORD1547,2026-09-13,Nikhil Reddy,Kolkata,West Bengal,Furniture,Desk Lamp,3,1799,20,UPI,4317.6,129.44
+ORD1548,2026-08-27,Nikhil Reddy,Delhi,Delhi,Electronics,Bluetooth Speaker,4,1499,20,UPI,4796.8,15.47
+ORD1549,2026-04-29,Simran Kaur,Ahmedabad,Gujarat,Accessories,Laptop Stand,4,1299,15,UPI,4416.6,1222.39
+ORD1550,2026-04-08,Priya Singh,Bengaluru,Karnataka,Lifestyle,Water Bottle,5,499,10,Cash on Delivery,2245.5,445.57
+ORD1551,2026-08-04,Pooja Nair,Lucknow,Uttar Pradesh,Electronics,Keyboard,3,899,15,Cash on Delivery,2292.45,641.48
+ORD1552,2026-03-13,Ananya Rao,Chennai,Tamil Nadu,Accessories,USB-C Cable,3,399,20,Cash on Delivery,957.6,39.45
+ORD1553,2026-03-01,Pooja Nair,Ahmedabad,Gujarat,Furniture,Office Chair,3,6499,20,Cash on Delivery,15597.6,2902.1
+ORD1554,2026-04-11,Pooja Nair,Bengaluru,Karnataka,Accessories,USB-C Cable,5,399,20,Cash on Delivery,1596.0,371.54
+ORD1555,2026-04-06,Meera Iyer,Mumbai,Maharashtra,Bags,Backpack,2,1199,10,Net Banking,2158.2,422.17
+ORD1556,2026-05-25,Rahul Sharma,Pune,Maharashtra,Lifestyle,Water Bottle,3,499,15,Credit Card,1272.45,284.13
+ORD1557,2026-09-22,Neha Gupta,Jaipur,Rajasthan,Furniture,Office Chair,2,6499,20,Net Banking,10398.4,1402.57
+ORD1558,2026-04-16,Nikhil Reddy,Jaipur,Rajasthan,Electronics,Keyboard,3,899,15,Net Banking,2292.45,213.2
+ORD1559,2026-03-23,Aditya Jain,Bengaluru,Karnataka,Stationery,Pen Set,4,199,5,UPI,756.2,244.42
+ORD1560,2026-01-18,Rohan Mehta,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,1499,0,Cash on Delivery,5996.0,1264.23
+ORD1561,2026-08-17,Neha Gupta,Jaipur,Rajasthan,Stationery,Notebook,5,149,20,Debit Card,596.0,-6.94
+ORD1562,2026-03-13,Vikram Das,Jaipur,Rajasthan,Electronics,Power Bank,2,1599,15,Net Banking,2718.3,116.88
+ORD1563,2026-05-11,Aditya Jain,Pune,Maharashtra,Bags,Backpack,4,1199,20,Credit Card,3836.8,665.2
+ORD1564,2026-09-13,Karan Shah,Pune,Maharashtra,Bags,Backpack,1,1199,10,Cash on Delivery,1079.1,112.04
+ORD1565,2026-05-07,Vikram Das,Bengaluru,Karnataka,Furniture,Desk Lamp,5,1799,20,Net Banking,7196.0,1452.45
+ORD1566,2026-04-24,Rahul Sharma,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,4,399,20,Cash on Delivery,1276.8,100.28
+ORD1567,2026-09-30,Ananya Rao,Hyderabad,Telangana,Electronics,Wireless Mouse,4,599,0,Credit Card,2396.0,666.2
+ORD1568,2026-09-21,Karan Shah,Ahmedabad,Gujarat,Electronics,Keyboard,3,899,20,Credit Card,2157.6,-21.11
+ORD1569,2026-09-29,Rohan Mehta,Kolkata,West Bengal,Accessories,Laptop Stand,1,1299,15,Credit Card,1104.15,107.39
+ORD1570,2026-08-09,Meera Iyer,Pune,Maharashtra,Electronics,Keyboard,1,899,20,Credit Card,719.2,27.62
+ORD1571,2026-07-20,Sneha Patel,Chennai,Tamil Nadu,Accessories,Laptop Stand,1,1299,10,Credit Card,1169.1,213.91
+ORD1572,2026-05-17,Neha Gupta,Chennai,Tamil Nadu,Furniture,Office Chair,4,6499,0,UPI,25996.0,5520.09
+ORD1573,2026-05-20,Rahul Sharma,Delhi,Delhi,Furniture,Desk Lamp,2,1799,0,Net Banking,3598.0,1173.23
+ORD1574,2026-08-20,Pooja Nair,Jaipur,Rajasthan,Stationery,Pen Set,3,199,15,Debit Card,507.45,99.37
+ORD1575,2026-08-09,Arjun Verma,Kolkata,West Bengal,Furniture,Desk Lamp,1,1799,0,Net Banking,1799.0,625.83
+ORD1576,2026-07-19,Vikram Das,Ahmedabad,Gujarat,Furniture,Office Chair,2,6499,20,UPI,10398.4,456.57
+ORD1577,2026-03-04,Ananya Rao,Delhi,Delhi,Electronics,Bluetooth Speaker,3,1499,0,Debit Card,4497.0,1470.14
+ORD1578,2026-07-03,Neha Gupta,Kolkata,West Bengal,Electronics,Power Bank,3,1599,0,Cash on Delivery,4797.0,1229.26
+ORD1579,2026-08-02,Pooja Nair,Mumbai,Maharashtra,Bags,Backpack,5,1199,10,UPI,5395.5,1130.7
+ORD1580,2026-04-15,Sneha Patel,Hyderabad,Telangana,Lifestyle,Water Bottle,5,499,15,Cash on Delivery,2120.75,251.53
+ORD1581,2026-07-03,Karan Shah,Delhi,Delhi,Lifestyle,Water Bottle,4,499,10,Cash on Delivery,1796.4,536.33
+ORD1582,2026-07-27,Priya Singh,Bengaluru,Karnataka,Lifestyle,Water Bottle,2,499,0,Cash on Delivery,998.0,193.81
+ORD1583,2026-07-03,Simran Kaur,Pune,Maharashtra,Electronics,Power Bank,3,1599,0,Net Banking,4797.0,1665.53
+ORD1584,2026-04-28,Pooja Nair,Jaipur,Rajasthan,Electronics,Keyboard,3,899,5,UPI,2562.15,940.97
+ORD1585,2026-01-05,Aman Kumar,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,2,399,10,Credit Card,718.2,80.63
+ORD1586,2026-06-24,Priya Singh,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,4,1499,0,Credit Card,5996.0,1523.13
+ORD1587,2026-03-07,Meera Iyer,Hyderabad,Telangana,Electronics,Power Bank,4,1599,0,Debit Card,6396.0,1939.19
+ORD1588,2026-08-02,Arjun Verma,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,1,1299,15,Net Banking,1104.15,87.28
+ORD1589,2026-01-25,Arjun Verma,Bengaluru,Karnataka,Accessories,USB-C Cable,5,399,5,UPI,1895.25,566.61
+ORD1590,2026-04-01,Priya Singh,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,1,1299,10,Net Banking,1169.1,291.4
+ORD1591,2026-06-29,Rahul Sharma,Delhi,Delhi,Bags,Backpack,3,1199,5,Debit Card,3417.15,815.34
+ORD1592,2026-02-25,Karan Shah,Chennai,Tamil Nadu,Lifestyle,Water Bottle,5,499,20,Net Banking,1996.0,244.32
+ORD1593,2026-07-07,Aman Kumar,Pune,Maharashtra,Accessories,Laptop Stand,1,1299,10,Debit Card,1169.1,219.7
+ORD1594,2026-08-08,Pooja Nair,Kolkata,West Bengal,Lifestyle,Water Bottle,5,499,10,UPI,2245.5,337.83
+ORD1595,2026-02-21,Vikram Das,Kolkata,West Bengal,Lifestyle,Water Bottle,5,499,5,Cash on Delivery,2370.25,845.61
+ORD1596,2026-07-10,Pooja Nair,Bengaluru,Karnataka,Furniture,Office Chair,5,6499,0,Credit Card,32495.0,11190.34
+ORD1597,2026-07-09,Nikhil Reddy,Chennai,Tamil Nadu,Electronics,Wireless Mouse,3,599,20,UPI,1437.6,45.53
+ORD1598,2026-03-19,Aditya Jain,Bengaluru,Karnataka,Bags,Backpack,2,1199,20,Debit Card,1918.4,434.92
+ORD1599,2026-09-02,Ananya Rao,Ahmedabad,Gujarat,Bags,Backpack,5,1199,10,Debit Card,5395.5,767.77
+ORD1600,2026-01-26,Nikhil Reddy,Pune,Maharashtra,Accessories,Laptop Stand,2,1299,0,Net Banking,2598.0,798.71
+ORD1601,2026-09-30,Vikram Das,Lucknow,Uttar Pradesh,Accessories,USB-C Cable,3,399,5,Net Banking,1137.15,163.21
+ORD1602,2026-04-10,Aman Kumar,Kolkata,West Bengal,Electronics,Power Bank,3,1599,10,Credit Card,4317.3,1392.62
+ORD1603,2026-02-19,Rahul Sharma,Ahmedabad,Gujarat,Stationery,Notebook,5,149,20,Debit Card,596.0,87.79
+ORD1604,2026-08-27,Meera Iyer,Hyderabad,Telangana,Bags,Backpack,2,1199,20,Cash on Delivery,1918.4,442.61
+ORD1605,2026-08-25,Priya Singh,Ahmedabad,Gujarat,Furniture,Desk Lamp,4,1799,15,Debit Card,6116.6,1135.38
+ORD1606,2026-09-21,Rohan Mehta,Pune,Maharashtra,Stationery,Notebook,3,149,0,Cash on Delivery,447.0,148.01
+ORD1607,2026-08-18,Priya Singh,Delhi,Delhi,Furniture,Office Chair,2,6499,20,Credit Card,10398.4,798.59
+ORD1608,2026-06-22,Rohan Mehta,Chennai,Tamil Nadu,Accessories,Laptop Stand,5,1299,15,Net Banking,5520.75,989.46
+ORD1609,2026-01-04,Aditya Jain,Pune,Maharashtra,Stationery,Notebook,2,149,20,Credit Card,238.4,31.32
+ORD1610,2026-07-31,Neha Gupta,Mumbai,Maharashtra,Stationery,Notebook,2,149,0,Debit Card,298.0,98.98
+ORD1611,2026-08-02,Ananya Rao,Delhi,Delhi,Lifestyle,Water Bottle,3,499,10,Debit Card,1347.3,126.89
+ORD1612,2026-01-03,Vikram Das,Pune,Maharashtra,Electronics,Wireless Mouse,4,599,10,Cash on Delivery,2156.4,479.28
+ORD1613,2026-07-21,Aman Kumar,Kolkata,West Bengal,Electronics,Wireless Mouse,2,599,0,Net Banking,1198.0,398.95
+ORD1614,2026-09-05,Nikhil Reddy,Chennai,Tamil Nadu,Accessories,USB-C Cable,1,399,15,UPI,339.15,88.29
+ORD1615,2026-05-07,Vikram Das,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,1,499,5,UPI,474.05,137.26
+ORD1616,2026-01-11,Arjun Verma,Delhi,Delhi,Accessories,USB-C Cable,2,399,5,Net Banking,758.1,238.25
+ORD1617,2026-02-23,Karan Shah,Pune,Maharashtra,Furniture,Office Chair,1,6499,5,Debit Card,6174.05,950.01
+ORD1618,2026-05-24,Neha Gupta,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2,1499,10,UPI,2698.2,880.5
+ORD1619,2026-09-03,Priya Singh,Lucknow,Uttar Pradesh,Electronics,Power Bank,4,1599,20,Credit Card,5116.8,482.47
+ORD1620,2026-02-12,Rahul Sharma,Ahmedabad,Gujarat,Furniture,Office Chair,4,6499,15,Net Banking,22096.6,4151.33
+ORD1621,2026-03-31,Sneha Patel,Bengaluru,Karnataka,Stationery,Notebook,4,149,20,Cash on Delivery,476.8,107.72
+ORD1622,2026-06-29,Simran Kaur,Pune,Maharashtra,Electronics,Power Bank,5,1599,5,Net Banking,7595.25,1632.46
+ORD1623,2026-04-16,Arjun Verma,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,4,1499,15,Net Banking,5096.6,1286.14
+ORD1624,2026-06-13,Priya Singh,Kolkata,West Bengal,Accessories,USB-C Cable,5,399,15,Credit Card,1695.75,176.64
+ORD1625,2026-02-03,Aditya Jain,Chennai,Tamil Nadu,Bags,Backpack,4,1199,20,Debit Card,3836.8,603.06
+ORD1626,2026-08-19,Aman Kumar,Pune,Maharashtra,Accessories,USB-C Cable,4,399,15,Debit Card,1356.6,289.48
+ORD1627,2026-02-19,Priya Singh,Pune,Maharashtra,Bags,Backpack,4,1199,0,Net Banking,4796.0,1769.51
+ORD1628,2026-03-18,Pooja Nair,Hyderabad,Telangana,Furniture,Office Chair,3,6499,20,UPI,15597.6,3547.57
+ORD1629,2026-06-08,Aman Kumar,Lucknow,Uttar Pradesh,Furniture,Office Chair,4,6499,10,UPI,23396.4,6831.92
+ORD1630,2026-05-18,Priya Singh,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,5,1499,5,Credit Card,7120.25,1907.03
+ORD1631,2026-01-04,Rohan Mehta,Ahmedabad,Gujarat,Electronics,Wireless Mouse,5,599,10,Credit Card,2695.5,714.71
+ORD1632,2026-02-16,Simran Kaur,Mumbai,Maharashtra,Electronics,Power Bank,1,1599,0,Net Banking,1599.0,466.44
+ORD1633,2026-04-18,Aman Kumar,Lucknow,Uttar Pradesh,Furniture,Office Chair,2,6499,5,Credit Card,12348.1,2074.17
+ORD1634,2026-01-12,Aman Kumar,Ahmedabad,Gujarat,Electronics,Keyboard,3,899,10,Credit Card,2427.3,306.61
+ORD1635,2026-07-01,Meera Iyer,Bengaluru,Karnataka,Bags,Backpack,2,1199,0,Cash on Delivery,2398.0,599.12
+ORD1636,2026-08-13,Aditya Jain,Pune,Maharashtra,Electronics,Power Bank,1,1599,20,UPI,1279.2,156.55
+ORD1637,2026-08-30,Karan Shah,Pune,Maharashtra,Lifestyle,Water Bottle,5,499,20,Debit Card,1996.0,166.37
+ORD1638,2026-03-14,Simran Kaur,Jaipur,Rajasthan,Electronics,Keyboard,2,899,0,Credit Card,1798.0,351.78
+ORD1639,2026-02-08,Simran Kaur,Jaipur,Rajasthan,Lifestyle,Water Bottle,1,499,5,Credit Card,474.05,82.21
+ORD1640,2026-06-08,Vikram Das,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,4,1499,15,Credit Card,5096.6,1268.62
+ORD1641,2026-04-20,Meera Iyer,Chennai,Tamil Nadu,Electronics,Power Bank,4,1599,20,Net Banking,5116.8,1244.47
+ORD1642,2026-02-05,Aditya Jain,Mumbai,Maharashtra,Stationery,Notebook,2,149,5,Cash on Delivery,283.1,77.64
+ORD1643,2026-05-28,Priya Singh,Pune,Maharashtra,Accessories,USB-C Cable,1,399,0,Debit Card,399.0,86.08
+ORD1644,2026-04-14,Aman Kumar,Kolkata,West Bengal,Furniture,Desk Lamp,3,1799,20,Cash on Delivery,4317.6,293.58
+ORD1645,2026-02-13,Priya Singh,Bengaluru,Karnataka,Furniture,Office Chair,5,6499,15,Net Banking,27620.75,1516.35
+ORD1646,2026-09-30,Simran Kaur,Hyderabad,Telangana,Furniture,Office Chair,3,6499,10,Debit Card,17547.3,5848.97
+ORD1647,2026-05-13,Vikram Das,Pune,Maharashtra,Furniture,Office Chair,5,6499,10,Net Banking,29245.5,3860.62
+ORD1648,2026-08-07,Vikram Das,Pune,Maharashtra,Stationery,Pen Set,2,199,20,UPI,318.4,-6.98
+ORD1649,2026-08-06,Aman Kumar,Hyderabad,Telangana,Electronics,Power Bank,3,1599,10,Cash on Delivery,4317.3,877.79
+ORD1650,2026-07-13,Aditya Jain,Delhi,Delhi,Electronics,Wireless Mouse,2,599,20,Cash on Delivery,958.4,159.02
+ORD1651,2026-07-07,Aman Kumar,Pune,Maharashtra,Stationery,Notebook,5,149,10,Net Banking,670.5,163.73
+ORD1652,2026-04-12,Karan Shah,Hyderabad,Telangana,Accessories,USB-C Cable,1,399,15,Net Banking,339.15,62.36
+ORD1653,2026-02-12,Aman Kumar,Jaipur,Rajasthan,Bags,Backpack,4,1199,15,Cash on Delivery,4076.6,679.82
+ORD1654,2026-03-18,Simran Kaur,Ahmedabad,Gujarat,Lifestyle,Water Bottle,2,499,10,UPI,898.2,194.34
+ORD1655,2026-09-24,Pooja Nair,Hyderabad,Telangana,Stationery,Notebook,3,149,10,Credit Card,402.3,76.51
+ORD1656,2026-08-18,Rahul Sharma,Pune,Maharashtra,Electronics,Keyboard,3,899,10,Credit Card,2427.3,400.1
+ORD1657,2026-09-20,Karan Shah,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,3,1499,15,Net Banking,3822.45,401.81
+ORD1658,2026-05-20,Karan Shah,Hyderabad,Telangana,Stationery,Pen Set,4,199,5,Debit Card,756.2,143.68
+ORD1659,2026-04-28,Neha Gupta,Chennai,Tamil Nadu,Accessories,Laptop Stand,5,1299,0,UPI,6495.0,1204.57
+ORD1660,2026-01-07,Meera Iyer,Hyderabad,Telangana,Bags,Backpack,4,1199,10,Credit Card,4316.4,456.86
+ORD1661,2026-01-26,Vikram Das,Pune,Maharashtra,Stationery,Pen Set,5,199,5,Net Banking,945.25,220.29
+ORD1662,2026-09-30,Aman Kumar,Delhi,Delhi,Electronics,Wireless Mouse,4,599,10,Cash on Delivery,2156.4,371.9
+ORD1663,2026-06-30,Neha Gupta,Ahmedabad,Gujarat,Stationery,Pen Set,3,199,5,Cash on Delivery,567.15,128.31
+ORD1664,2026-07-29,Rahul Sharma,Lucknow,Uttar Pradesh,Bags,Backpack,1,1199,5,UPI,1139.05,226.96
+ORD1665,2026-06-10,Rahul Sharma,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,1,499,20,Cash on Delivery,399.2,87.59
+ORD1666,2026-08-06,Sneha Patel,Chennai,Tamil Nadu,Electronics,Power Bank,2,1599,15,UPI,2718.3,282.83
+ORD1667,2026-09-10,,Kolkata,West Bengal,Electronics,Keyboard,1,899,20,Debit Card,719.2,65.68
+ORD1668,2026-02-01,Meera Iyer,Hyderabad,Telangana,Electronics,Keyboard,4,899,10,UPI,3236.4,542.11
+ORD1669,2026-02-16,Karan Shah,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,20,Debit Card,5116.8,1077.32
+ORD1670,2026-05-12,Meera Iyer,Hyderabad,Telangana,Accessories,Laptop Stand,1,1299,5,Debit Card,1234.05,320.36
+ORD1671,2026-06-30,Nikhil Reddy,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,15,Net Banking,5436.6,496.56
+ORD1672,2026-03-11,Simran Kaur,Bengaluru,Karnataka,Lifestyle,Water Bottle,2,499,5,Debit Card,948.1,310.4
+ORD1673,2026-08-17,Simran Kaur,Chennai,Tamil Nadu,Electronics,Keyboard,5,899,0,Debit Card,4495.0,912.87
+ORD1674,2026-06-10,Karan Shah,Kolkata,West Bengal,Stationery,Pen Set,5,199,15,Net Banking,845.75,70.48
+ORD1675,2026-09-16,Rohan Mehta,Mumbai,Maharashtra,Accessories,USB-C Cable,5,399,15,Debit Card,1695.75,474.8
+ORD1676,2026-04-05,Pooja Nair,Mumbai,Maharashtra,Electronics,Power Bank,5,1599,5,Debit Card,7595.25,2019.8
+ORD1677,2026-04-03,Ananya Rao,Hyderabad,Telangana,Furniture,Desk Lamp,2,1799,15,Credit Card,3058.3,620.0
+ORD1678,2026-09-08,Nikhil Reddy,Pune,Maharashtra,Lifestyle,Water Bottle,1,499,0,Cash on Delivery,499.0,198.0
+ORD1679,2026-05-30,Arjun Verma,Delhi,Delhi,Furniture,Office Chair,1,6499,0,Net Banking,6499.0,2569.54
+ORD1680,2026-09-28,Rohan Mehta,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,3,1299,5,Net Banking,3702.15,898.42
+ORD1681,2026-02-04,Neha Gupta,Delhi,Delhi,Electronics,Bluetooth Speaker,2,1499,15,Cash on Delivery,2548.3,588.46
+ORD1682,2026-06-28,Arjun Verma,Pune,Maharashtra,Electronics,Bluetooth Speaker,3,1499,5,Debit Card,4272.15,1430.17
+ORD1683,2026-01-15,Rohan Mehta,Ahmedabad,Gujarat,Furniture,Office Chair,5,6499,10,Credit Card,29245.5,3471.53
+ORD1684,2026-09-23,Karan Shah,Jaipur,Rajasthan,Bags,Backpack,1,1199,20,UPI,959.2,120.78
+ORD1685,2026-06-03,Meera Iyer,Jaipur,Rajasthan,Electronics,Keyboard,4,899,0,UPI,3596.0,1337.97
+ORD1686,2026-01-18,Meera Iyer,Hyderabad,Telangana,Stationery,Pen Set,3,199,20,Net Banking,477.6,-5.24
+ORD1687,2026-02-25,Karan Shah,Mumbai,Maharashtra,Furniture,Desk Lamp,4,1799,0,UPI,7196.0,2790.67
+ORD1688,2026-09-06,Priya Singh,Ahmedabad,Gujarat,Accessories,USB-C Cable,4,399,0,Debit Card,1596.0,630.6
+ORD1689,2026-05-28,Neha Gupta,Lucknow,Uttar Pradesh,Stationery,Notebook,5,149,20,Credit Card,596.0,121.22
+ORD1690,2026-03-17,Nikhil Reddy,Mumbai,Maharashtra,Electronics,Keyboard,2,899,20,Net Banking,1438.4,171.67
+ORD1691,2026-01-26,Meera Iyer,Mumbai,Maharashtra,Stationery,Pen Set,3,199,10,Net Banking,537.3,48.74
+ORD1692,2026-08-02,Rohan Mehta,Ahmedabad,Gujarat,Stationery,Pen Set,1,199,10,Debit Card,179.1,27.32
+ORD1693,2026-01-28,Karan Shah,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,15,Cash on Delivery,5436.6,569.6
+ORD1694,2026-06-17,Neha Gupta,Bengaluru,Karnataka,Accessories,Laptop Stand,2,1299,10,Net Banking,2338.2,699.39
+ORD1695,2026-02-15,Ananya Rao,Kolkata,West Bengal,Electronics,Power Bank,4,1599,10,Cash on Delivery,5756.4,1361.58
+ORD1696,2026-03-06,Neha Gupta,Kolkata,West Bengal,Furniture,Office Chair,5,6499,5,Debit Card,30870.25,4888.9
+ORD1697,2026-08-13,Arjun Verma,Kolkata,West Bengal,Furniture,Desk Lamp,3,1799,20,UPI,4317.6,374.38
+ORD1698,2026-03-29,Aman Kumar,Kolkata,West Bengal,Furniture,Office Chair,3,6499,20,Debit Card,15597.6,2936.0
+ORD1699,2026-05-17,Arjun Verma,Lucknow,Uttar Pradesh,Furniture,Office Chair,2,6499,15,Net Banking,11048.3,1249.7
+ORD1700,2026-05-28,Arjun Verma,Jaipur,Rajasthan,Accessories,Laptop Stand,2,1299,20,Net Banking,2078.4,240.58
+ORD1701,2026-05-14,Karan Shah,Bengaluru,Karnataka,Electronics,Power Bank,1,1599,5,UPI,1519.05,458.27
+ORD1702,2026-06-17,Aman Kumar,Pune,Maharashtra,Bags,Backpack,5,1199,10,Net Banking,5395.5,1027.17
+ORD1703,2026-08-25,Aman Kumar,Delhi,Delhi,Electronics,Wireless Mouse,3,599,5,UPI,1707.15,346.51
+ORD1704,2026-08-14,Aditya Jain,Hyderabad,Telangana,Stationery,Pen Set,5,199,0,Debit Card,995.0,209.38
+ORD1705,2026-02-11,Aman Kumar,Kolkata,West Bengal,Electronics,Bluetooth Speaker,1,1499,10,UPI,1349.1,365.36
+ORD1706,2026-02-14,Neha Gupta,Mumbai,Maharashtra,Electronics,Power Bank,2,1599,5,Net Banking,3038.1,812.55
+ORD1707,2026-01-10,Meera Iyer,Lucknow,Uttar Pradesh,Bags,Backpack,1,1199,10,UPI,1079.1,336.54
+ORD1708,2026-01-15,Sneha Patel,Hyderabad,Telangana,Electronics,Keyboard,4,899,15,UPI,3056.6,613.9
+ORD1709,2026-04-09,Vikram Das,Jaipur,Rajasthan,Lifestyle,Water Bottle,4,499,0,Cash on Delivery,1996.0,789.56
+ORD1710,2026-04-21,Priya Singh,Chennai,Tamil Nadu,Furniture,Office Chair,5,6499,15,Net Banking,27620.75,2349.46
+ORD1711,2026-04-15,Ananya Rao,Hyderabad,Telangana,Lifestyle,Water Bottle,5,499,5,Debit Card,2370.25,758.86
+ORD1712,2026-06-13,Ananya Rao,Jaipur,Rajasthan,Accessories,Laptop Stand,3,1299,10,Net Banking,3507.3,394.73
+ORD1713,2026-05-10,Neha Gupta,Chennai,Tamil Nadu,Lifestyle,Water Bottle,4,499,0,Cash on Delivery,1996.0,464.67
+ORD1714,2026-06-28,Arjun Verma,Kolkata,West Bengal,Furniture,Office Chair,5,6499,20,UPI,25996.0,4330.13
+ORD1715,2026-06-02,Aditya Jain,Mumbai,Maharashtra,Accessories,USB-C Cable,4,399,0,Credit Card,1596.0,574.34
+ORD1716,2026-03-23,Karan Shah,Kolkata,West Bengal,Electronics,Power Bank,2,1599,10,Cash on Delivery,2878.2,739.76
+ORD1717,2026-05-24,Ananya Rao,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,3,1499,15,UPI,3822.45,857.96
+ORD1718,2026-04-10,Rohan Mehta,Hyderabad,Telangana,Stationery,Pen Set,4,199,10,Debit Card,716.4,90.63
+ORD1719,2026-03-24,Pooja Nair,Bengaluru,Karnataka,Stationery,Pen Set,3,199,5,UPI,567.15,167.32
+ORD1720,2026-01-06,Ananya Rao,Kolkata,West Bengal,Furniture,Desk Lamp,2,1799,5,Credit Card,3418.1,1042.65
+ORD1721,2026-06-23,Ananya Rao,Kolkata,West Bengal,Bags,Backpack,5,1199,0,Debit Card,5995.0,2327.08
+ORD1722,2026-06-15,Aditya Jain,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,1499,15,Debit Card,2548.3,220.27
+ORD1723,2026-08-12,Neha Gupta,Lucknow,Uttar Pradesh,Accessories,Laptop Stand,3,1299,10,Debit Card,3507.3,358.27
+ORD1724,2026-07-19,Ananya Rao,Kolkata,West Bengal,Stationery,Pen Set,5,199,0,Cash on Delivery,995.0,267.13
+ORD1725,2026-01-01,Karan Shah,Delhi,Delhi,Furniture,Desk Lamp,3,1799,20,Cash on Delivery,4317.6,1015.72
+ORD1726,2026-06-27,Nikhil Reddy,Kolkata,West Bengal,Stationery,Pen Set,3,199,10,Cash on Delivery,537.3,90.23
+ORD1727,2026-02-17,Aman Kumar,Chennai,Tamil Nadu,Stationery,Pen Set,3,199,0,Cash on Delivery,597.0,178.27
+ORD1728,2026-09-30,Simran Kaur,Delhi,Delhi,Accessories,USB-C Cable,5,399,20,Cash on Delivery,1596.0,239.69
+ORD1729,2026-03-11,Karan Shah,Kolkata,West Bengal,Electronics,Keyboard,2,899,5,Credit Card,1708.1,610.63
+ORD1730,2026-07-08,Meera Iyer,Hyderabad,Telangana,Furniture,Office Chair,3,6499,20,Cash on Delivery,15597.6,2620.01
+ORD1731,2026-04-08,Priya Singh,Bengaluru,Karnataka,Electronics,Wireless Mouse,2,599,15,Net Banking,1018.3,160.46
+ORD1732,2026-03-30,Ananya Rao,Kolkata,West Bengal,Stationery,Pen Set,3,199,5,Net Banking,567.15,199.31
+ORD1733,2026-09-29,Priya Singh,Hyderabad,Telangana,Accessories,Laptop Stand,5,1299,20,Credit Card,5196.0,130.7
+ORD1734,2026-05-12,Arjun Verma,Bengaluru,Karnataka,Furniture,Desk Lamp,1,1799,5,Credit Card,1709.05,611.42
+ORD1735,2026-01-16,Aman Kumar,Pune,Maharashtra,Electronics,Wireless Mouse,1,599,20,UPI,479.2,85.59
+ORD1736,2026-09-22,Karan Shah,Chennai,Tamil Nadu,Stationery,Notebook,1,149,20,Cash on Delivery,119.2,1.54
+ORD1737,2026-04-07,Priya Singh,Pune,Maharashtra,Bags,Backpack,2,1199,20,UPI,1918.4,416.1
+ORD1738,2026-06-20,Karan Shah,Bengaluru,Karnataka,Electronics,Wireless Mouse,4,599,15,UPI,2036.6,471.34
+ORD1739,2026-03-28,Priya Singh,Lucknow,Uttar Pradesh,Stationery,Pen Set,4,199,15,Credit Card,676.6,24.87
+ORD1740,2026-07-01,Aditya Jain,Ahmedabad,Gujarat,Stationery,Notebook,1,149,20,UPI,119.2,27.14
+ORD1741,2026-05-26,Rohan Mehta,Chennai,Tamil Nadu,Furniture,Desk Lamp,5,1799,5,Debit Card,8545.25,1411.86
+ORD1742,2026-09-05,Priya Singh,Lucknow,Uttar Pradesh,Electronics,Keyboard,2,899,15,Credit Card,1528.3,58.35
+ORD1743,2026-02-21,Priya Singh,Kolkata,West Bengal,Stationery,Notebook,2,149,0,Debit Card,298.0,61.08
+ORD1744,2026-07-03,Aman Kumar,Chennai,Tamil Nadu,Lifestyle,Water Bottle,1,499,10,Cash on Delivery,449.1,113.92
+ORD1745,2026-03-24,Neha Gupta,Ahmedabad,Gujarat,Furniture,Desk Lamp,1,1799,0,UPI,1799.0,665.37
+ORD1746,2026-07-31,Meera Iyer,Kolkata,West Bengal,Electronics,Power Bank,3,1599,20,Net Banking,3837.6,35.02
+ORD1747,2026-06-07,Priya Singh,Delhi,Delhi,Stationery,Pen Set,2,199,5,Credit Card,378.1,65.75
+ORD1748,2026-02-26,Simran Kaur,Bengaluru,Karnataka,Bags,Backpack,1,1199,10,Credit Card,1079.1,192.22
+ORD1749,2026-07-17,Arjun Verma,,Delhi,Electronics,Keyboard,5,899,0,UPI,4495.0,985.87
+ORD1750,2026-03-02,Neha Gupta,Delhi,Delhi,Electronics,Wireless Mouse,3,599,20,Credit Card,1437.6,19.55
+ORD1751,2026-07-06,Rohan Mehta,Bengaluru,Karnataka,Accessories,USB-C Cable,2,399,10,Cash on Delivery,718.2,236.88
+ORD1752,2026-07-25,Meera Iyer,Chennai,Tamil Nadu,Furniture,Office Chair,4,6499,5,Debit Card,24696.2,6942.18
+ORD1753,2026-05-20,Neha Gupta,Mumbai,Maharashtra,Lifestyle,Water Bottle,2,499,20,UPI,798.4,101.41
+ORD1754,2026-02-14,Rahul Sharma,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,5,Credit Card,2845.25,990.63
+ORD1755,2026-02-05,Aditya Jain,Kolkata,West Bengal,Electronics,Power Bank,3,1599,5,Debit Card,4557.15,903.58
+ORD1756,2026-04-07,Rohan Mehta,Jaipur,Rajasthan,Accessories,Laptop Stand,5,1299,5,Net Banking,6170.25,1182.26
+ORD1757,2026-06-18,Vikram Das,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,3,1499,20,Debit Card,3597.6,754.94
+ORD1758,2026-09-27,Sneha Patel,Lucknow,Uttar Pradesh,Electronics,Keyboard,3,899,0,Credit Card,2697.0,880.16
+ORD1759,2026-07-28,Rahul Sharma,Kolkata,West Bengal,Lifestyle,Water Bottle,2,499,15,Credit Card,848.3,128.32
+ORD1760,2026-02-10,Nikhil Reddy,Delhi,Delhi,Lifestyle,Water Bottle,3,499,15,Debit Card,1272.45,176.33
+ORD1761,2026-04-24,Rohan Mehta,Bengaluru,Karnataka,Furniture,Desk Lamp,2,1799,5,Net Banking,3418.1,1116.69
+ORD1762,2026-03-15,Vikram Das,Jaipur,Rajasthan,Furniture,Office Chair,4,6499,5,Net Banking,24696.2,7290.78
+ORD1763,2026-04-30,Rahul Sharma,Chennai,Tamil Nadu,Bags,Backpack,1,1199,20,UPI,959.2,95.91
+ORD1764,2026-05-17,Sneha Patel,Ahmedabad,Gujarat,Accessories,Laptop Stand,1,1299,5,UPI,1234.05,341.12
+ORD1765,2026-05-29,Priya Singh,Bengaluru,Karnataka,Accessories,Laptop Stand,2,1299,5,Net Banking,2468.1,485.45
+ORD1766,2026-07-31,Arjun Verma,Ahmedabad,Gujarat,Lifestyle,Water Bottle,5,499,0,Net Banking,2495.0,890.71
+ORD1767,2026-05-12,Priya Singh,Mumbai,Maharashtra,Electronics,Wireless Mouse,1,599,0,Debit Card,599.0,224.46
+ORD1768,2026-03-20,Karan Shah,Hyderabad,Telangana,Stationery,Notebook,3,149,15,Cash on Delivery,379.95,106.87
+ORD1769,2026-08-05,Pooja Nair,Chennai,Tamil Nadu,Furniture,Office Chair,3,6499,5,Credit Card,18522.15,2881.15
+ORD1770,2026-09-30,Simran Kaur,Bengaluru,Karnataka,Electronics,Keyboard,5,899,10,UPI,4045.5,1000.75
+ORD1771,2026-06-03,Aman Kumar,Bengaluru,Karnataka,Stationery,Notebook,3,149,10,Cash on Delivery,402.3,55.79
+ORD1772,2026-05-09,Rahul Sharma,Hyderabad,Telangana,Accessories,Laptop Stand,4,1299,20,UPI,4156.8,187.78
+ORD1773,2026-05-14,Sneha Patel,Lucknow,Uttar Pradesh,Bags,Backpack,2,1199,20,UPI,1918.4,234.7
+ORD1774,2026-07-31,Nikhil Reddy,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,1,499,5,Debit Card,474.05,171.7
+ORD1775,2026-04-18,Meera Iyer,Hyderabad,Telangana,Accessories,USB-C Cable,5,399,5,UPI,1895.25,278.16
+ORD1776,2026-04-08,Simran Kaur,Lucknow,Uttar Pradesh,Electronics,Power Bank,1,1599,20,Credit Card,1279.2,102.3
+ORD1777,2026-03-28,Nikhil Reddy,Chennai,Tamil Nadu,Electronics,Power Bank,4,1599,5,Net Banking,6076.2,2207.52
+ORD1778,2026-07-06,Meera Iyer,Kolkata,West Bengal,Electronics,Wireless Mouse,4,599,5,Debit Card,2276.2,757.87
+ORD1779,2026-06-11,Simran Kaur,Kolkata,West Bengal,Electronics,Power Bank,2,1599,15,Net Banking,2718.3,505.21
+ORD1780,2026-09-03,Meera Iyer,Pune,Maharashtra,Accessories,USB-C Cable,2,399,15,Net Banking,678.3,51.66
+ORD1781,2026-04-17,Arjun Verma,Delhi,Delhi,Stationery,Notebook,3,149,15,Debit Card,379.95,26.23
+ORD1782,2026-06-30,Arjun Verma,Chennai,Tamil Nadu,Furniture,Desk Lamp,3,1799,5,UPI,5127.15,1010.48
+ORD1783,2026-05-29,Vikram Das,Delhi,Delhi,Bags,Backpack,1,1199,5,Debit Card,1139.05,408.7
+ORD1784,2026-01-14,Rohan Mehta,Pune,Maharashtra,Stationery,Notebook,2,149,20,Credit Card,238.4,31.06
+ORD1785,2026-05-25,Aman Kumar,Pune,Maharashtra,Electronics,Power Bank,2,1599,0,Debit Card,3198.0,701.13
+ORD1786,2026-04-16,Arjun Verma,Bengaluru,Karnataka,Electronics,Power Bank,4,1599,5,UPI,6076.2,2004.66
+ORD1787,2026-03-22,Pooja Nair,Hyderabad,Telangana,Electronics,Keyboard,5,899,10,Credit Card,4045.5,436.14
+ORD1788,2026-05-20,Vikram Das,Pune,Maharashtra,Stationery,Notebook,5,149,10,Credit Card,670.5,143.65
+ORD1789,2026-01-10,Arjun Verma,Ahmedabad,Gujarat,Lifestyle,Water Bottle,3,499,15,Cash on Delivery,1272.45,203.22
+ORD1790,2026-01-14,Neha Gupta,Ahmedabad,Gujarat,Accessories,USB-C Cable,5,399,5,Credit Card,1895.25,506.78
+ORD1791,2026-06-16,Sneha Patel,Chennai,Tamil Nadu,Bags,Backpack,5,1199,15,UPI,5095.75,1041.09
+ORD1792,2026-05-25,Aman Kumar,Bengaluru,Karnataka,Lifestyle,Water Bottle,5,499,15,Credit Card,2120.75,450.3
+ORD1793,2026-09-05,Neha Gupta,Pune,Maharashtra,Stationery,Notebook,3,149,5,Net Banking,424.65,90.29
+ORD1794,2026-08-08,Vikram Das,Jaipur,Rajasthan,Furniture,Office Chair,1,6499,10,Cash on Delivery,5849.1,830.18
+ORD1795,2026-02-01,Pooja Nair,Lucknow,Uttar Pradesh,Furniture,Desk Lamp,2,1799,0,Credit Card,3598.0,830.69
+ORD1796,2026-03-05,Rohan Mehta,Jaipur,Rajasthan,Furniture,Desk Lamp,2,1799,0,UPI,3598.0,1397.45
+ORD1797,2026-03-25,Aman Kumar,Chennai,Tamil Nadu,Electronics,Keyboard,2,899,0,Debit Card,1798.0,563.64
+ORD1798,2026-06-26,Karan Shah,Mumbai,Maharashtra,Bags,Backpack,2,1199,20,Credit Card,1918.4,12.81
+ORD1799,2026-03-30,Sneha Patel,Lucknow,Uttar Pradesh,Lifestyle,Water Bottle,4,499,0,Credit Card,1996.0,534.58
+ORD1800,2026-09-08,Neha Gupta,Delhi,Delhi,Electronics,Keyboard,5,899,10,UPI,4045.5,1149.27
+ORD1062,2026-01-13,Rohan Mehta,Kolkata,West Bengal,Stationery,Notebook,5,149,15,UPI,633.25,115.94
+ORD1800,2026-09-08,Neha Gupta,Delhi,Delhi,Electronics,Keyboard,5,899,10,UPI,4045.5,1149.27
+ORD1748,2026-02-26,Simran Kaur,Bengaluru,Karnataka,Bags,Backpack,1,1199,10,Credit Card,1079.1,192.22
+ORD1669,2026-02-16,Karan Shah,Mumbai,Maharashtra,Electronics,Power Bank,4,1599,20,Debit Card,5116.8,1077.32
+ORD1727,2026-02-17,Aman Kumar,Chennai,Tamil Nadu,Stationery,Pen Set,3,199,0,Cash on Delivery,597.0,178.27
+ORD1111,2026-02-07,Rohan Mehta,Hyderabad,Telangana,Electronics,Wireless Mouse,5,599,0,Debit Card,2995.0,697.09
+ORD1390,2026-08-04,Rohan Mehta,Hyderabad,Telangana,Bags,Backpack,2,1199,15,Debit Card,2038.3,448.73
+ORD1465,2026-04-10,Sneha Patel,Kolkata,West Bengal,Electronics,Wireless Mouse,1,599,10,Credit Card,539.1,116.12
